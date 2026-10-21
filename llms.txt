@@ -23,6 +23,11 @@ Guide indépendant édité par BMA Digital Studio LLC sur les projets extérieur
 - [Projets extérieurs en Vendée](https://exterieur-clair.fr/vendee): Piscines détectées par photos aériennes, restrictions d’eau 2026, tendances locales : le point pour vos projets extérieurs en Vendée.
 - [À propos et méthode](https://exterieur-clair.fr/a-propos): Qui écrit ce guide, comment les prix et les règles sont vérifiés, et pourquoi le site est indépendant.
 
+## Référentiels locaux (44 et 85)
+- [Taxe d’aménagement 2026 : le taux de votre commune (44, 85)](https://exterieur-clair.fr/taxe-amenagement): Taux 2026 de la taxe d’aménagement des 460 communes de Loire-Atlantique et de Vendée, exonération des abris de jardin et calculateur pour piscine, abri ou véranda.
+- [Piscinistes labellisés Propiscines en Loire-Atlantique et Vendée](https://exterieur-clair.fr/piscinistes-labellises): La liste des piscinistes labellisés Propiscines et Proabris en Loire-Atlantique et en Vendée, d’après l’annuaire officiel de la FPP, et ce que garantit chaque label.
+- [Paysagistes qualifiés en Loire-Atlantique et Vendée (QualiPaysage)](https://exterieur-clair.fr/paysagistes-qualifies): Les entreprises du paysage qualifiées QualiPaysage et adhérentes de l’Unep en Loire-Atlantique et en Vendée, d’après les annuaires officiels, pour vos terrasses, clôtures et jardins.
+
 ## Texte intégral
 - [Extérieur Clair — texte intégral](https://exterieur-clair.fr/llms-full.txt)
 

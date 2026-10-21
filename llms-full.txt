@@ -694,3 +694,1008 @@ Le site est édité par BMA Digital Studio LLC (voir les mentions légales ) et 
 Du même auteur : Repères Assainissement (assainissement individuel en Loire-Atlantique et en Vendée), Gagner du Temps (visibilité sur Google et suivi des devis pour les artisans) et FidéliQR (carte de fidélité par QR code pour les commerçants).
 Une erreur ?
 Signalez-la à {{EMAIL}} : je corrige en citant la source.
+
+
+## Taxe d’aménagement 2026 : le taux de votre commune (44, 85)
+URL : https://exterieur-clair.fr/taxe-amenagement
+
+Accueil › Taxe d’aménagement Taxe d’aménagement 2026 : le taux de chaque commune du 44 et du 85
+Le taux voté par votre commune, les exonérations d’abris de jardin et un calculateur pour estimer la taxe d’une piscine, d’un abri ou d’une véranda.
+Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+En bref
+Valeurs 2026 : 251 € par m² de bassin pour une piscine, 892 € par m² pour une construction (446 € sur les 100 premiers m² d’une résidence principale).
+Part départementale : 2,5 % en Loire-Atlantique comme en Vendée (la Vendée est passée de 1,5 % à 2,5 % au 1 er janvier 2026).
+Part communale : de 1 à 5 % le plus souvent ; 252 communes sur 460 exonèrent tout ou partie des abris de jardin.
+Sommaire
+Calculer la taxe de votre projet
+Comment est calculée la taxe
+La part départementale
+Abris de jardin : les communes qui exonèrent
+Taux 2026 en Loire-Atlantique (44)
+Taux 2026 en Vendée (85)
+Quand et comment payer
+Calculer la taxe de votre projet
+Choisissez votre commune et votre projet : le calcul applique les valeurs forfaitaires 2026, le taux voté par la commune et la part départementale.
+Commune (Loire-Atlantique ou Vendée)
+Projet Piscine (surface du bassin) Abri de jardin Véranda, extension, garage
+Surface en m²
+Rattaché à ma résidence principale (abattement de 50 % sur les 100 premiers m²)
+Estimation indicative : le montant exact est calculé par l’administration à partir de votre déclaration. Si votre terrain est dans un secteur à taux différent, le taux peut changer (voir le tableau).
+Comment est calculée la taxe
+La taxe d’aménagement est due pour toute construction de plus de 5 m² qui demande une autorisation d’urbanisme (déclaration préalable ou permis), et pour les piscines. Elle se calcule ainsi :
+Surface taxable × valeur forfaitaire × (taux communal + taux départemental)
+Construction (véranda, extension, garage, abri fermé) : 892 € par m² en 2026 hors Île-de-France. Les 100 premiers m² d’une résidence principale profitent d’un abattement de 50 %, soit 446 € par m².
+Piscine : 251 € par m² de bassin en 2026, quel que soit l’usage de la maison. Une commune ne peut pas exonérer les piscines.
+Pergola ouverte : elle ne crée pas de surface close et couverte, elle n’est donc pas taxée.
+Stationnement extérieur : 2 928 € par place en 2026, que la commune peut porter jusqu’à 5 857 €.
+La valeur forfaitaire baisse en 2026 (892 € contre 930 € en 2025, 251 € contre 262 € pour les piscines), car elle suit l’indice du coût de la construction. En pratique, la redevance d’archéologie préventive (0,68 %) s’ajoute souvent sur le même avis.
+La part départementale
+Loire-Atlantique : 2,5 % depuis 2022.
+Vendée : 2,5 % depuis le 1 er janvier 2026 (1,5 % auparavant).
+Il n’y a pas de part régionale en Pays de la Loire : elle n’existe qu’en Île-de-France. Les abris de jardin ne sont exonérés de la part départementale ni dans le 44 ni dans le 85.
+Abris de jardin : les communes qui exonèrent
+Une commune peut exonérer les abris de jardin de 20 m² ou moins soumis à déclaration préalable, en tout ou en partie. Dans le 44 et le 85, 252 communes le font, dont 190 à 100 %. Un abri de 5 m² ou moins n’a besoin d’aucune autorisation et n’est pas taxé. Le pourcentage voté par votre commune figure dans la colonne « Abris de jardin » du tableau ci-dessous.
+Taux 2026 en Loire-Atlantique (44)
+Dans les 24 communes de Nantes Métropole, le taux est voté par la métropole. Certaines communes appliquent un taux plus élevé dans des secteurs précis (zones à urbaniser, par exemple) : demandez à la mairie quel taux s’applique à votre parcelle.
+Taux 2026 votés par les communes ou intercommunalités de Loire-Atlantique (207 communes). Source : DGFiP, délibérations applicables au 1er janvier 2026. Ajoutez la part départementale de 2,5 %.
+Commune | Code postal | Intercommunalité | Taux communal | Abris de jardin | Secteurs à taux différent |
+Abbaretz | 44170 | CC de Nozay | 4 % | non exonérés | Non |
+Aigrefeuille-sur-Maine | 44140 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 50 % | Oui (10, 12 %) |
+Ancenis-Saint-Géréon | 44150 | CC du Pays d'Ancenis | 5 % | non exonérés | Non |
+Assérac | 44410 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | non exonérés | Non |
+Avessac | 44460 | CA Redon Agglomération | 1,5 % | exonérés à 100 % | Non |
+Basse-Goulaine | 44115 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Batz-sur-Mer | 44740 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | exonérés à 100 % | Non |
+Besné | 44160 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 3 % | non exonérés | Non |
+Blain | 44130 | CC du Pays de Blain | 4 % | exonérés à 100 % | Non |
+Bouaye | 44830 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Bouguenais | 44340 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Boussay | 44190 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 50 % | Non |
+Bouvron | 44130 | CC du Pays de Blain | 4 % | non exonérés | Non |
+Bouée | 44260 | CC Estuaire et Sillon | 2 % | non exonérés | Non |
+Brains | 44830 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Campbon | 44750 | CC Estuaire et Sillon | 3 % | exonérés à 100 % | Non |
+Carquefou | 44470 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Casson | 44390 | CC d'Erdre et Gesvres | 5 % | exonérés à 70 % | Non |
+Chaumes-en-Retz | 44320, 44680 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Non |
+Chauvé | 44320 | CA Pornic Agglo Pays de Retz | 4,5 % | non exonérés | Non |
+Cheix-en-Retz | 44640 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Non |
+Château-Thébaud | 44690 | CA Clisson Sèvre et Maine Agglo | 5 % | non exonérés | Non |
+Châteaubriant | 44110 | CC Châteaubriant-Derval | 1 % | non exonérés | Non |
+Clisson | 44190 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Non |
+Conquereuil | 44290 | CA Redon Agglomération | 3 % | non exonérés | Non |
+Corcoué-sur-Logne | 44650 | CC Sud Retz Atlantique | 3,5 % | non exonérés | Non |
+Cordemais | 44360 | CC Estuaire et Sillon | 3 % | exonérés à 100 % | Non |
+Corsept | 44560 | CC du Sud Estuaire | 4 % | exonérés à 100 % | Non |
+Couffé | 44521 | CC du Pays d'Ancenis | 3,5 % | non exonérés | Non |
+Couëron | 44220 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Crossac | 44160 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 2 % | exonérés à 100 % | Non |
+Derval | 44590 | CC Châteaubriant-Derval | 3 % | exonérés à 50 % | Oui (1,5 %) |
+Divatte-sur-Loire | 44450 | CC Sèvre et Loire | 5 % | exonérés à 100 % | Non |
+Donges | 44480 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 3 % | exonérés à 100 % | Non |
+Drefféac | 44530 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 2 % | non exonérés | Non |
+Erbray | 44110 | CC Châteaubriant-Derval | 1 % | non exonérés | Non |
+Fay-de-Bretagne | 44130 | CC d'Erdre et Gesvres | 4 % | exonérés à 100 % | Non |
+Fercé | 44660 | CC Châteaubriant-Derval | 1 % | non exonérés | Non |
+Frossay | 44320 | CC du Sud Estuaire | 4 % | exonérés à 100 % | Non |
+Fégréac | 44460 | CA Redon Agglomération | 2,6 % | non exonérés | Non |
+Geneston | 44140 | CC Grand Lieu Communauté | 5 % | non exonérés | Non |
+Gorges | 44190 | CA Clisson Sèvre et Maine Agglo | 5 % | non exonérés | Oui (15 %) |
+Grand-Auverné | 44520 | CC Châteaubriant-Derval | 1 % | non exonérés | Oui (2 %) |
+Grandchamp-des-Fontaines | 44119 | CC d'Erdre et Gesvres | 5 % | exonérés à 80 % | Oui (10 %) |
+Guenrouet | 44530 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 2,5 % | non exonérés | Non |
+Guémené-Penfao | 44290 | CA Redon Agglomération | 2,5 % | exonérés à 100 % | Non |
+Guérande | 44350 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | non exonérés | Oui (3, 8 %) |
+Gétigné | 44190 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Non |
+Haute-Goulaine | 44115 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Non |
+Herbignac | 44410 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | exonérés à 50 % | Oui (5, 6, 18,8, 20, 99 %) — valeur à vérifier |
+Héric | 44810 | CC d'Erdre et Gesvres | 4,5 % | exonérés à 50 % | Non |
+Indre | 44610 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Issé | 44520 | CC Châteaubriant-Derval | 1,5 % | exonérés à 100 % | Non |
+Jans | 44170 | CC Châteaubriant-Derval | 4 % | exonérés à 50 % | Non |
+Joué-sur-Erdre | 44440 | CC du Pays d'Ancenis | 5 % | exonérés à 100 % | Oui (1 %) |
+Juigné-des-Moutiers | 44670 | CC Châteaubriant-Derval | 1 % | non exonérés | Non |
+La Baule-Escoublac | 44500 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | non exonérés | Non |
+La Bernerie-en-Retz | 44760 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Non |
+La Boissière-du-Doré | 44430 | CC Sèvre et Loire | 5 % | exonérés à 75 % | Non |
+La Chapelle-Glain | 44670 | CC Châteaubriant-Derval | 1,5 % | non exonérés | Non |
+La Chapelle-Heulin | 44330 | CC Sèvre et Loire | 5 % | non exonérés | Non |
+La Chapelle-Launay | 44260 | CC Estuaire et Sillon | 3,5 % | exonérés à 100 % | Non |
+La Chapelle-des-Marais | 44410 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 4 % | exonérés à 100 % | Non |
+La Chapelle-sur-Erdre | 44240 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+La Chevallerais | 44810 | CC du Pays de Blain | 4 % | non exonérés | Oui (2, 4, 11, 99 %) — valeur à vérifier |
+La Chevrolière | 44118 | CC Grand Lieu Communauté | 5 % | exonérés à 100 % | Non |
+La Grigonnais | 44170 | CC de Nozay | 4 % | non exonérés | Non |
+La Haie-Fouassière | 44690 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Oui (20 %) |
+La Limouzinière | 44310 | CC Grand Lieu Communauté | 5 % | exonérés à 60 % | Non |
+La Marne | 44270 | CC Sud Retz Atlantique | 3,5 % | non exonérés | Non |
+La Meilleraye-de-Bretagne | 44520 | CC Châteaubriant-Derval | 2 % | non exonérés | Non |
+La Montagne | 44620 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+La Plaine-sur-Mer | 44770 | CA Pornic Agglo Pays de Retz | 4,1 % | non exonérés | Non |
+La Planche | 44140 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Non |
+La Regrippière | 44330 | CC Sèvre et Loire | 5 % | non exonérés | Non |
+La Remaudière | 44430 | CC Sèvre et Loire | 5 % | exonérés à 90 % | Non |
+La Roche-Blanche | 44522 | CC du Pays d'Ancenis | 2,25 % | non exonérés | Non |
+La Turballe | 44420 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 4 % | non exonérés | Non |
+Lavau-sur-Loire | 44260 | CC Estuaire et Sillon | 3,5 % | exonérés à 100 % | Non |
+Le Bignon | 44140 | CC Grand Lieu Communauté | 5 % | exonérés à 100 % | Oui (20 %) |
+Le Cellier | 44850 | CC du Pays d'Ancenis | 4 % | exonérés à 80 % | Non |
+Le Croisic | 44490 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | non exonérés | Non |
+Le Gâvre | 44130 | CC du Pays de Blain | 4 % | exonérés à 75 % | Oui (2 %) |
+Le Landreau | 44430 | CC Sèvre et Loire | 3,5 % | non exonérés | Non |
+Le Loroux-Bottereau | 44430 | CC Sèvre et Loire | 5 % | exonérés à 100 % | Oui (12 %) |
+Le Pallet | 44330 | CC Sèvre et Loire | 5 % | non exonérés | Non |
+Le Pellerin | 44640 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Le Pin | 44540 | CC du Pays d'Ancenis | 3 % | non exonérés | Non |
+Le Pouliguen | 44510 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | non exonérés | Non |
+Le Temple-de-Bretagne | 44360 | CC Estuaire et Sillon | 5 % | exonérés à 100 % | Oui (20 %) |
+Legé | 44650 | CC Sud Retz Atlantique | 5 % | non exonérés | Non |
+Les Moutiers-en-Retz | 44760 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Non |
+Les Sorinières | 44840 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Les Touches | 44390 | CC d'Erdre et Gesvres | 4 % | exonérés à 50 % | Non |
+Ligné | 44850 | CC du Pays d'Ancenis | 5 % | exonérés à 80 % | Non |
+Loireauxence | 44370 | CC du Pays d'Ancenis | 3 % | exonérés à 50 % | Non |
+Louisfert | 44110 | CC Châteaubriant-Derval | 1,4 % | non exonérés | Non |
+Lusanger | 44590 | CC Châteaubriant-Derval | 2 % | exonérés à 100 % | Non |
+Machecoul-Saint-Même | 44270 | CC Sud Retz Atlantique | 4 % | exonérés à 50 % | Non |
+Maisdon-sur-Sèvre | 44690 | CA Clisson Sèvre et Maine Agglo | 5 % | non exonérés | Non |
+Malville | 44260 | CC Estuaire et Sillon | 4,25 % | exonérés à 100 % | Non |
+Marsac-sur-Don | 44170 | CC Châteaubriant-Derval | 3 % | exonérés à 50 % | Non |
+Massérac | 44290 | CA Redon Agglomération | 1 % | non exonérés | Non |
+Mauves-sur-Loire | 44470 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Mesquer | 44420 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | exonérés à 75 % | Non |
+Missillac | 44780 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 4 % | exonérés à 100 % | Non |
+Moisdon-la-Rivière | 44520 | CC Châteaubriant-Derval | 1 % | exonérés à 100 % | Non |
+Monnières | 44690 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Non |
+Montbert | 44140 | CC Grand Lieu Communauté | 5 % | exonérés à 100 % | Non |
+Montoir-de-Bretagne | 44550 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 3 % | exonérés à 100 % | Non |
+Montrelais | 44370 | CC du Pays d'Ancenis | 2,5 % | exonérés à 100 % | Non |
+Mouais | 44590 | CC Châteaubriant-Derval | 2 % | exonérés à 100 % | Non |
+Mouzeil | 44850 | CC du Pays d'Ancenis | 5 % | exonérés à 100 % | Non |
+Mouzillon | 44330 | CC Sèvre et Loire | 5 % | exonérés à 50 % | Non |
+Mésanger | 44522 | CC du Pays d'Ancenis | 3 % | non exonérés | Non |
+Nantes | 44000, 44100, 44200, 44300 | Nantes Métropole | 5 % | exonérés à 100 % | Oui (20 %) |
+Nort-sur-Erdre | 44390 | CC d'Erdre et Gesvres | 5 % | exonérés à 100 % | Non |
+Notre-Dame-des-Landes | 44130 | CC d'Erdre et Gesvres | 5 % | exonérés à 100 % | Non |
+Noyal-sur-Brutz | 44110 | CC Châteaubriant-Derval | 1 % | exonérés à 100 % | Non |
+Nozay | 44170 | CC de Nozay | 4 % | exonérés à 100 % | Oui (5 %) |
+Orvault | 44700 | Nantes Métropole | 5 % | exonérés à 100 % | Oui (20 %) |
+Oudon | 44521 | CC du Pays d'Ancenis | 4 % | non exonérés | Non |
+Paimbœuf | 44560 | CC du Sud Estuaire | 4 % | exonérés à 50 % | Non |
+Pannecé | 44440 | CC du Pays d'Ancenis | 3,5 % | exonérés à 50 % | Non |
+Paulx | 44270 | CC Sud Retz Atlantique | 3,5 % | non exonérés | Non |
+Petit-Auverné | 44670 | CC Châteaubriant-Derval | 1,5 % | exonérés à 100 % | Non |
+Petit-Mars | 44390 | CC d'Erdre et Gesvres | 4 % | exonérés à 100 % | Non |
+Pierric | 44290 | CA Redon Agglomération | 1 % | non exonérés | Non |
+Piriac-sur-Mer | 44420 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | exonérés à 100 % | Non |
+Plessé | 44630 | CA Redon Agglomération | 2,5 % | exonérés à 100 % | Non |
+Pont-Saint-Martin | 44860 | CC Grand Lieu Communauté | 5 % | exonérés à 100 % | Non |
+Pontchâteau | 44160 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 3,5 % | exonérés à 100 % | Non |
+Pornic | 44210 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Non |
+Pornichet | 44380 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 4 % | exonérés à 100 % | Non |
+Port-Saint-Père | 44710 | CA Pornic Agglo Pays de Retz | 5 % | exonérés à 50 % | Non |
+Pouillé-les-Côteaux | 44522 | CC du Pays d'Ancenis | 2 % | non exonérés | Non |
+Prinquiau | 44260 | CC Estuaire et Sillon | 3,5 % | exonérés à 100 % | Non |
+Préfailles | 44770 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Non |
+Puceul | 44390 | CC de Nozay | 3 % | exonérés à 100 % | Oui (5 %) |
+Quilly | 44750 | CC Estuaire et Sillon | 4 % | exonérés à 100 % | Non |
+Remouillé | 44140 | CA Clisson Sèvre et Maine Agglo | 5 % | non exonérés | Non |
+Rezé | 44400 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Riaillé | 44440 | CC du Pays d'Ancenis | 4 % | exonérés à 100 % | Non |
+Rouans | 44640 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Oui (4, 12 %) |
+Rougé | 44660 | CC Châteaubriant-Derval | 1 % | non exonérés | Non |
+Ruffigné | 44660 | CC Châteaubriant-Derval | 1 % | non exonérés | Non |
+Saffré | 44390 | CC de Nozay | 3,45 % | non exonérés | Non |
+Saint-Aignan-Grandlieu | 44860 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Saint-André-des-Eaux | 44117 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 4 % | exonérés à 50 % | Non |
+Saint-Aubin-des-Châteaux | 44110 | CC Châteaubriant-Derval | 1 % | non exonérés | Non |
+Saint-Brevin-les-Pins | 44250 | CC du Sud Estuaire | 3 % | non exonérés | Non |
+Saint-Colomban | 44310 | CC Grand Lieu Communauté | 5 % | non exonérés | Non |
+Saint-Fiacre-sur-Maine | 44690 | CA Clisson Sèvre et Maine Agglo | 5 % | non exonérés | Non |
+Saint-Gildas-des-Bois | 44530 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 2,5 % | exonérés à 100 % | Non |
+Saint-Herblain | 44800 | Nantes Métropole | 5 % | exonérés à 100 % | Oui (15, 20 %) |
+Saint-Hilaire-de-Chaléons | 44680 | CA Pornic Agglo Pays de Retz | 5 % | exonérés à 100 % | Non |
+Saint-Hilaire-de-Clisson | 44190 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Non |
+Saint-Jean-de-Boiseau | 44640 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Saint-Joachim | 44720 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 3 % | exonérés à 100 % | Non |
+Saint-Julien-de-Concelles | 44450 | CC Sèvre et Loire | 3 % | non exonérés | Non |
+Saint-Julien-de-Vouvantes | 44670 | CC Châteaubriant-Derval | 1,5 % | non exonérés | Non |
+Saint-Lumine-de-Clisson | 44190 | CA Clisson Sèvre et Maine Agglo | 5 % | non exonérés | Non |
+Saint-Lumine-de-Coutais | 44310 | CC Grand Lieu Communauté | 5 % | exonérés à 100 % | Oui (1 %) |
+Saint-Lyphard | 44410 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | exonérés à 50 % | Non |
+Saint-Léger-les-Vignes | 44710 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Saint-Malo-de-Guersac | 44550 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 4 % | exonérés à 50 % | Non |
+Saint-Mars-de-Coutais | 44680 | CC Sud Retz Atlantique | 3,2 % | non exonérés | Non |
+Saint-Mars-du-Désert | 44850 | CC d'Erdre et Gesvres | 5 % | exonérés à 100 % | Non |
+Saint-Michel-Chef-Chef | 44730 | CA Pornic Agglo Pays de Retz | 5 % | non exonérés | Non |
+Saint-Molf | 44350 | CA de la Presqu'île de Guérande Atlantique (Cap Atlantique) | 5 % | exonérés à 60 % | Non |
+Saint-Nazaire | 44600 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 5 % | exonérés à 100 % | Oui (20 %) |
+Saint-Nicolas-de-Redon | 44460 | CA Redon Agglomération | 4 % | exonérés à 100 % | Non |
+Saint-Philbert-de-Grand-Lieu | 44310 | CC Grand Lieu Communauté | 5 % | exonérés à 80 % | Oui (14 %) |
+Saint-Père-en-Retz | 44320 | CC du Sud Estuaire | 4 % | non exonérés | Non |
+Saint-Sébastien-sur-Loire | 44230 | Nantes Métropole | 5 % | exonérés à 100 % | Oui (10 %) |
+Saint-Viaud | 44320 | CC du Sud Estuaire | 4 % | non exonérés | Non |
+Saint-Vincent-des-Landes | 44590 | CC Châteaubriant-Derval | 1 % | exonérés à 100 % | Non |
+Saint-Étienne-de-Mer-Morte | 44270 | CC Sud Retz Atlantique | 3,25 % | non exonérés | Oui (5 %) |
+Saint-Étienne-de-Montluc | 44360 | CC Estuaire et Sillon | 5 % | non exonérés | Non |
+Sainte-Anne-sur-Brivet | 44160 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 2 % | non exonérés | Non |
+Sainte-Luce-sur-Loire | 44980 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Sainte-Pazanne | 44680 | CA Pornic Agglo Pays de Retz | 5 % | exonérés à 100 % | Oui (6,5, 7 %) |
+Sainte-Reine-de-Bretagne | 44160 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 3 % | exonérés à 100 % | Non |
+Sautron | 44880 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Savenay | 44260 | CC Estuaire et Sillon | 5 % | exonérés à 100 % | Non |
+Sion-les-Mines | 44590 | CC Châteaubriant-Derval | 3 % | exonérés à 100 % | Non |
+Soudan | 44110 | CC Châteaubriant-Derval | 1 % | exonérés à 100 % | Non |
+Soulvache | 44660 | CC Châteaubriant-Derval | 1 % | exonérés à 100 % | Non |
+Sucé-sur-Erdre | 44240 | CC d'Erdre et Gesvres | 5 % | exonérés à 100 % | Non |
+Sévérac | 44530 | CC du Pays de Pontchâteau St-Gildas-des-Bois | 3 % | non exonérés | Non |
+Teillé | 44440 | CC du Pays d'Ancenis | 3 % | exonérés à 50 % | Oui (1,5 %) |
+Thouaré-sur-Loire | 44470 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Touvois | 44650 | CC Sud Retz Atlantique | 4 % | exonérés à 100 % | Non |
+Trans-sur-Erdre | 44440 | CC du Pays d'Ancenis | 5 % | non exonérés | Non |
+Treffieux | 44170 | CC de Nozay | 3,5 % | non exonérés | Oui (4,5 %) |
+Treillières | 44119 | CC d'Erdre et Gesvres | 5 % | exonérés à 80 % | Non |
+Trignac | 44570 | CA de la Région Nazairienne et de l'Estuaire (CARENE) | 1,8 % | non exonérés | Non |
+Vair-sur-Loire | 44150 | CC du Pays d'Ancenis | 3,5 % | exonérés à 100 % | Non |
+Vallet | 44330 | CC Sèvre et Loire | 5 % | non exonérés | Oui (12, 18 %) |
+Vallons-de-l'Erdre | 44540 | CC du Pays d'Ancenis | 3,5 % | exonérés à 50 % | Oui (1, 2, 8, 12 %) |
+Vay | 44170 | CC de Nozay | 3,5 % | exonérés à 25 % | Oui (4, 4,5 %) |
+Vertou | 44120 | Nantes Métropole | 5 % | exonérés à 100 % | Non |
+Vieillevigne | 44116 | CA Clisson Sèvre et Maine Agglo | 5 % | exonérés à 100 % | Non |
+Vigneux-de-Bretagne | 44360 | CC d'Erdre et Gesvres | 5 % | exonérés à 100 % | Non |
+Villeneuve-en-Retz | 44580 | CA Pornic Agglo Pays de Retz | 5 % | exonérés à 50 % | Non |
+Villepot | 44110 | CC Châteaubriant-Derval | 1 % | exonérés à 100 % | Non |
+Vue | 44640 | CA Pornic Agglo Pays de Retz | 5 % | exonérés à 100 % | Non |
+Taux 2026 en Vendée (85)
+Les communes fusionnées au 1 er janvier 2026 apparaissent sous leur nouveau nom (Cugand-la-Bernardière, Saint-Jean-d’Hermine, Rives-du-Fougerais).
+Taux 2026 votés par les communes ou intercommunalités de Vendée (253 communes). Source : DGFiP, délibérations applicables au 1er janvier 2026. Ajoutez la part départementale de 2,5 %.
+Commune | Code postal | Intercommunalité | Taux communal | Abris de jardin | Secteurs à taux différent |
+Aizenay | 85190 | CC de Vie et Boulogne | 3 % | exonérés à 80 % | Non |
+Angles | 85750 | CC Vendée Grand Littoral | 3 % | exonérés à 50 % | Non |
+Antigny | 85120 | CC du Pays de la Châtaigneraie | 1 % | non exonérés | Non |
+Apremont | 85220 | CC de Vie et Boulogne | 3 % | exonérés à 100 % | Oui (5 %) |
+Aubigny-Les Clouzeaux | 85430 | CA La Roche-sur-Yon - Agglomération | 3 % | exonérés à 100 % | Non |
+Auchay-sur-Vendée | 85200 | CC du Pays de Fontenay-Vendée | 2 % | exonérés à 50 % | Non |
+Avrillé | 85440 | CC Vendée Grand Littoral | 3 % | non exonérés | Oui (5 %) |
+Barbâtre | 85630 | CC de l'Ile de Noirmoutier | 4,5 % | exonérés à 100 % | Non |
+Bazoges-en-Paillers | 85130 | CC du Pays de Saint-Fulgent - Les Essarts | 2 % | exonérés à 100 % | Non |
+Bazoges-en-Pareds | 85390 | CC du Pays de la Châtaigneraie | 2,1 % | non exonérés | Non |
+Beaufou | 85170 | CC de Vie et Boulogne | 2,5 % | exonérés à 100 % | Oui (3 %) |
+Beaulieu-sous-la-Roche | 85190 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Beaurepaire | 85500 | CC du Pays des Herbiers | 2 % | non exonérés | Non |
+Beauvoir-sur-Mer | 85230 | CC Challans-Gois Communauté | 3 % | non exonérés | Non |
+Bellevigny | 85170 | CC de Vie et Boulogne | 3 % | non exonérés | Oui (13,85 %) |
+Benet | 85490 | CC Vendée, Sèvre, Autise | 2 % | exonérés à 100 % | Non |
+Bessay | 85320 | CC Sud Vendée Littoral | 1,5 % | non exonérés | Non |
+Bois-de-Céné | 85710 | CC Challans-Gois Communauté | 3,7 % | non exonérés | Non |
+Bouillé-Courdault | 85420 | CC Vendée, Sèvre, Autise | 2 % | exonérés à 80 % | Non |
+Bouin | 85230 | CC Challans-Gois Communauté | 3 % | non exonérés | Non |
+Bourneau | 85200 | CC du Pays de Fontenay-Vendée | 1 % | exonérés à 100 % | Non |
+Bournezeau | 85480 | CC Pays de Chantonnay | 2 % | exonérés à 60 % | Non |
+Brem-sur-Mer | 85470 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3 % | non exonérés | Non |
+Bretignolles-sur-Mer | 85470 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3 % | non exonérés | Non |
+Chaillé-les-Marais | 85450 | CC Sud Vendée Littoral | 1 % | non exonérés | Non |
+Challans | 85300 | CC Challans-Gois Communauté | 3 % | non exonérés | Non |
+Champagné-les-Marais | 85450 | CC Sud Vendée Littoral | 3 % | exonérés à 100 % | Non |
+Chantonnay | 85110 | CC Pays de Chantonnay | 2,1 % | exonérés à 50 % | Non |
+Chanverrie | 85130, 85500 | CC du Pays de Mortagne | 2 % | exonérés à 100 % | Non |
+Chasnais | 85400 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Chauché | 85140 | CC du Pays de Saint-Fulgent - Les Essarts | 2 % | exonérés à 100 % | Non |
+Chavagnes-en-Paillers | 85250 | CC du Pays de Saint-Fulgent - Les Essarts | 2 % | exonérés à 100 % | Non |
+Chavagnes-les-Redoux | 85390 | CC du Pays de Pouzauges | 2 % | exonérés à 100 % | Non |
+Cheffois | 85390 | CC du Pays de la Châtaigneraie | 1 % | exonérés à 100 % | Non |
+Château-Guibert | 85320 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Châteauneuf | 85710 | CC Challans-Gois Communauté | 2 % | exonérés à 100 % | Non |
+Commequiers | 85220 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3 % | exonérés à 100 % | Oui (10 %) |
+Corpe | 85320 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Coëx | 85220 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3 % | exonérés à 100 % | Non |
+Cugand-la-Bernardière | 85610 | CA Terres de Montaigu | 3 % | exonérés à 50 % | Non |
+Curzon | 85540 | CC Vendée Grand Littoral | 1 % | non exonérés | Non |
+Damvix | 85420 | CC Vendée, Sèvre, Autise | 2 % | non exonérés | Non |
+Doix lès Fontaines | 85200 | CC du Pays de Fontenay-Vendée | 2,75 % | exonérés à 80 % | Non |
+Dompierre-sur-Yon | 85170 | CA La Roche-sur-Yon - Agglomération | 3,2 % | non exonérés | Non |
+Essarts-en-Bocage | 85140 | CC du Pays de Saint-Fulgent - Les Essarts | 2,5 % | exonérés à 100 % | Oui (3,5 %) |
+Falleron | 85670 | CC de Vie et Boulogne | 3,5 % | exonérés à 50 % | Oui (3 %) |
+Faymoreau | 85240 | CC Vendée, Sèvre, Autise | 0 % | non exonérés | Non |
+Fontenay-le-Comte | 85200 | CC du Pays de Fontenay-Vendée | 3 % | non exonérés | Non |
+Fougeré | 85480 | CA La Roche-sur-Yon - Agglomération | 3 % | exonérés à 100 % | Non |
+Foussais-Payré | 85240 | CC du Pays de Fontenay-Vendée | 2 % | non exonérés | Non |
+Froidfond | 85300 | CC Challans-Gois Communauté | 3,5 % | exonérés à 100 % | Non |
+Givrand | 85800 | CA du Pays de Saint-Gilles-Croix-de-Vie | 4 % | exonérés à 50 % | Non |
+Grand'Landes | 85670 | CC de Vie et Boulogne | 2 % | non exonérés | Oui (3 %) |
+Grosbreuil | 85440 | CC Vendée Grand Littoral | 3,2 % | exonérés à 100 % | Non |
+Grues | 85580 | CC Sud Vendée Littoral | 2 % | exonérés à 100 % | Non |
+Jard-sur-Mer | 85520 | CC Vendée Grand Littoral | 3 % | non exonérés | Non |
+L'Aiguillon-la-Presqu'île | 85460 | CC Sud Vendée Littoral | 4,5 % | non exonérés | Non |
+L'Aiguillon-sur-Vie | 85220 | CA du Pays de Saint-Gilles-Croix-de-Vie | 4 % | exonérés à 50 % | Non |
+L'Herbergement | 85260 | CA Terres de Montaigu | 3,5 % | exonérés à 100 % | Oui (3 %) |
+L'Hermenault | 85570 | CC du Pays de Fontenay-Vendée | 2 % | non exonérés | Non |
+L'Oie | 85140 | CC du Pays de Saint-Fulgent - Les Essarts | 2,5 % | exonérés à 100 % | Oui (3,5 %) |
+L'Orbrie | 85200 | CC du Pays de Fontenay-Vendée | 3 % | exonérés à 50 % | Non |
+L'Épine | 85740 | CC de l'Ile de Noirmoutier | 5 % | exonérés à 100 % | Non |
+L'Île-d'Elle | 85770 | CC Sud Vendée Littoral | 1 % | exonérés à 100 % | Non |
+L'Île-d'Olonne | 85340 | CA Les Sables d'Olonne Agglomération | 3 % | non exonérés | Non |
+L'Île-d'Yeu | 85350 | | 4 % | non exonérés | Non |
+La Barre-de-Monts | 85550 | CC Océan Marais de Monts | 3 % | non exonérés | Non |
+La Boissière-de-Montaigu | 85600 | CA Terres de Montaigu | 3 % | non exonérés | Non |
+La Boissière-des-Landes | 85430 | CC Vendée Grand Littoral | 3 % | non exonérés | Non |
+La Bretonnière-la-Claye | 85320 | CC Sud Vendée Littoral | 2 % | exonérés à 100 % | Non |
+La Bruffière | 85530 | CA Terres de Montaigu | 2 % | exonérés à 100 % | Oui (2, 3, 99 %) — valeur à vérifier |
+La Caillère-Saint-Hilaire | 85410 | CC Sud Vendée Littoral | 1 % | non exonérés | Non |
+La Chaize-Giraud | 85220 | CA du Pays de Saint-Gilles-Croix-de-Vie | 4 % | exonérés à 100 % | Non |
+La Chaize-le-Vicomte | 85310 | CA La Roche-sur-Yon - Agglomération | 3 % | exonérés à 100 % | Non |
+La Chapelle-Hermier | 85220 | CC du Pays des Achards | 3 % | non exonérés | Non |
+La Chapelle-Palluau | 85670 | CC de Vie et Boulogne | 2,5 % | non exonérés | Non |
+La Chapelle-Thémer | 85210 | CC Sud Vendée Littoral | 1 % | exonérés à 100 % | Non |
+La Châtaigneraie | 85120 | CC du Pays de la Châtaigneraie | 1 % | exonérés à 100 % | Non |
+La Copechagnière | 85260 | CC du Pays de Saint-Fulgent - Les Essarts | 2,5 % | exonérés à 100 % | Non |
+La Couture | 85320 | CC Sud Vendée Littoral | 0 % | non exonérés | Non |
+La Ferrière | 85280 | CA La Roche-sur-Yon - Agglomération | 3 % | non exonérés | Non |
+La Garnache | 85710 | CC Challans-Gois Communauté | 4 % | non exonérés | Non |
+La Gaubretière | 85130 | CC du Pays de Mortagne | 3 % | exonérés à 100 % | Non |
+La Genétouze | 85190 | CC de Vie et Boulogne | 3 % | exonérés à 50 % | Non |
+La Guérinière | 85680 | CC de l'Ile de Noirmoutier | 4 % | non exonérés | Non |
+La Jaudonnière | 85110 | CC Sud Vendée Littoral | 1 % | non exonérés | Non |
+La Jonchère | 85540 | CC Vendée Grand Littoral | 2,75 % | exonérés à 50 % | Non |
+La Meilleraie-Tillay | 85700 | CC du Pays de Pouzauges | 1 % | exonérés à 100 % | Non |
+La Merlatière | 85140 | CC du Pays de Saint-Fulgent - Les Essarts | 2 % | exonérés à 100 % | Non |
+La Rabatelière | 85250 | CC du Pays de Saint-Fulgent - Les Essarts | 2 % | exonérés à 100 % | Non |
+La Roche-sur-Yon | 85000 | CA La Roche-sur-Yon - Agglomération | 5 % | non exonérés | Oui (6 %) |
+La Réorthe | 85210 | CC Sud Vendée Littoral | 2 % | exonérés à 100 % | Non |
+La Taillée | 85450 | CC Sud Vendée Littoral | 1 % | non exonérés | Non |
+La Tranche-sur-Mer | 85360 | CC Sud Vendée Littoral | 4,25 % | non exonérés | Non |
+Lairoux | 85400 | CC Sud Vendée Littoral | 1,8 % | non exonérés | Non |
+Landeronde | 85150 | CA La Roche-sur-Yon - Agglomération | 3 % | exonérés à 100 % | Oui (5 %) |
+Landevieille | 85220 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3,5 % | exonérés à 60 % | Non |
+Le Bernard | 85560 | CC Vendée Grand Littoral | 3 % | exonérés à 50 % | Non |
+Le Boupère | 85510 | CC du Pays de Pouzauges | 1 % | exonérés à 100 % | Non |
+Le Champ-Saint-Père | 85540 | CC Vendée Grand Littoral | 3 % | non exonérés | Oui (3 %) |
+Le Fenouiller | 85800 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3 % | exonérés à 50 % | Non |
+Le Girouard | 85150 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Le Givre | 85540 | CC Vendée Grand Littoral | 3,5 % | non exonérés | Non |
+Le Gué-de-Velluire | 85770 | CC Sud Vendée Littoral | 1,15 % | non exonérés | Non |
+Le Langon | 85370 | CC du Pays de Fontenay-Vendée | 3 % | exonérés à 100 % | Non |
+Le Mazeau | 85420 | CC Vendée, Sèvre, Autise | 2 % | non exonérés | Non |
+Le Perrier | 85300 | CC Océan Marais de Monts | 3 % | exonérés à 100 % | Non |
+Le Poiré-sur-Vie | 85170 | CC de Vie et Boulogne | 3 % | exonérés à 80 % | Non |
+Le Tablier | 85310 | CA La Roche-sur-Yon - Agglomération | 3 % | non exonérés | Non |
+Les Achards | 85150 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Les Brouzils | 85260 | CC du Pays de Saint-Fulgent - Les Essarts | 2 % | exonérés à 100 % | Non |
+Les Epesses | 85590 | CC du Pays des Herbiers | 1,25 % | non exonérés | Oui (1,25, 5, 99 %) — valeur à vérifier |
+Les Herbiers | 85500 | CC du Pays des Herbiers | 2 % | non exonérés | Non |
+Les Landes-Genusson | 85130 | CC du Pays de Mortagne | 3 % | exonérés à 100 % | Non |
+Les Lucs-sur-Boulogne | 85170 | CC de Vie et Boulogne | 3 % | non exonérés | Non |
+Les Magnils-Reigniers | 85400 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Les Pineaux | 85320 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Les Sables-d'Olonne | 85100, 85180, 85340 | CA Les Sables d'Olonne Agglomération | 5 % | exonérés à 100 % | Oui (5, 14, 99 %) — valeur à vérifier |
+Les Velluire-sur-Vendée | 85770 | CC du Pays de Fontenay-Vendée | 2,5 % | exonérés à 100 % | Non |
+Liez | 85420 | CC Vendée, Sèvre, Autise | 1 % | non exonérés | Non |
+Loge-Fougereuse | 85120 | CC du Pays de la Châtaigneraie | 0 % | non exonérés | Non |
+Longeville-sur-Mer | 85560 | CC Vendée Grand Littoral | 4 % | exonérés à 100 % | Oui (3 %) |
+Longèves | 85200 | CC du Pays de Fontenay-Vendée | 3 % | non exonérés | Non |
+Luçon | 85400 | CC Sud Vendée Littoral | 3 % | non exonérés | Oui (5, 7,8 %) |
+Maché | 85190 | CC de Vie et Boulogne | 2,5 % | non exonérés | Oui (3 %) |
+Maillezais | 85420 | CC Vendée, Sèvre, Autise | 2 % | non exonérés | Non |
+Maillé | 85420 | CC Vendée, Sèvre, Autise | 2 % | exonérés à 100 % | Non |
+Mallièvre | 85590 | CC du Pays de Mortagne | 1 % | non exonérés | Non |
+Mareuil-sur-Lay-Dissais | 85320 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Marillet | 85240 | CC du Pays de la Châtaigneraie | 0 % | non exonérés | Non |
+Marsais-Sainte-Radégonde | 85570 | CC du Pays de Fontenay-Vendée | 1,3 % | exonérés à 100 % | Non |
+Martinet | 85150 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Menomblet | 85700 | CC du Pays de la Châtaigneraie | 1 % | exonérés à 100 % | Non |
+Mervent | 85200 | CC du Pays de Fontenay-Vendée | 3 % | exonérés à 50 % | Non |
+Mesnard-la-Barotière | 85500 | CC du Pays des Herbiers | 2 % | exonérés à 100 % | Non |
+Monsireigne | 85110 | CC du Pays de Pouzauges | 1 % | exonérés à 100 % | Non |
+Montaigu-Vendée | 85600 | CA Terres de Montaigu | 4 % | exonérés à 50 % | Oui (3, 5 %) |
+Montournais | 85700 | CC du Pays de Pouzauges | 1 % | non exonérés | Non |
+Montreuil | 85200 | CC du Pays de Fontenay-Vendée | 1 % | non exonérés | Non |
+Montréverd | 85260 | CA Terres de Montaigu | 3,5 % | exonérés à 100 % | Oui (3, 3,5, 99 %) — valeur à vérifier |
+Moreilles | 85450 | CC Sud Vendée Littoral | 1,75 % | non exonérés | Non |
+Mortagne-sur-Sèvre | 85290 | CC du Pays de Mortagne | 2 % | non exonérés | Non |
+Mouchamps | 85640 | CC du Pays des Herbiers | 2,5 % | exonérés à 100 % | Oui (4 %) |
+Mouilleron-Saint-Germain | 85390 | CC du Pays de la Châtaigneraie | 1 % | exonérés à 50 % | Non |
+Mouilleron-le-Captif | 85000 | CA La Roche-sur-Yon - Agglomération | 3 % | non exonérés | Non |
+Moutiers-les-Mauxfaits | 85540 | CC Vendée Grand Littoral | 3 % | non exonérés | Non |
+Moutiers-sur-le-Lay | 85320 | CC Sud Vendée Littoral | 2 % | exonérés à 100 % | Non |
+Mouzeuil-Saint-Martin | 85370 | CC du Pays de Fontenay-Vendée | 1 % | exonérés à 100 % | Non |
+Nalliers | 85370 | CC Sud Vendée Littoral | 1 % | exonérés à 100 % | Non |
+Nesmy | 85310 | CA La Roche-sur-Yon - Agglomération | 3 % | exonérés à 50 % | Non |
+Nieul-le-Dolent | 85430 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Noirmoutier-en-l'Île | 85330 | CC de l'Ile de Noirmoutier | 4,2 % | non exonérés | Non |
+Notre-Dame-de-Monts | 85690 | CC Océan Marais de Monts | 3,5 % | non exonérés | Non |
+Notre-Dame-de-Riez | 85270 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3 % | exonérés à 100 % | Non |
+Palluau | 85670 | CC de Vie et Boulogne | 2,7 % | exonérés à 50 % | Oui (3 %) |
+Petosse | 85570 | CC du Pays de Fontenay-Vendée | 3 % | non exonérés | Non |
+Pissotte | 85200 | CC du Pays de Fontenay-Vendée | 2,5 % | exonérés à 100 % | Non |
+Poiroux | 85440 | CC Vendée Grand Littoral | 3,7 % | non exonérés | Non |
+Pouillé | 85570 | CC du Pays de Fontenay-Vendée | 1,3 % | non exonérés | Non |
+Pouzauges | 85700 | CC du Pays de Pouzauges | 2 % | non exonérés | Oui (1, 2, 99 %) — valeur à vérifier |
+Puy-de-Serre | 85240 | CC Vendée, Sèvre, Autise | 2 % | exonérés à 100 % | Non |
+Puyravault | 85450 | CC Sud Vendée Littoral | 3 % | exonérés à 100 % | Non |
+Péault | 85320 | CC Sud Vendée Littoral | 0 % | non exonérés | Non |
+Rives de l'Yon | 85310 | CA La Roche-sur-Yon - Agglomération | 3 % | non exonérés | Non |
+Rives-d'Autise | 85240, 85420 | CC Vendée, Sèvre, Autise | 2 % | exonérés à 100 % | Non |
+Rives-du-Fougerais | 85410 | CC du Pays de la Châtaigneraie | 1,5 % | exonérés à 100 % | Non |
+Rocheservière | 85620 | CA Terres de Montaigu | 3 % | exonérés à 100 % | Non |
+Rochetrejoux | 85510 | CC Pays de Chantonnay | 1 % | exonérés à 100 % | Non |
+Rosnay | 85320 | CC Sud Vendée Littoral | 1,2 % | exonérés à 100 % | Non |
+Réaumur | 85700 | CC du Pays de Pouzauges | 2 % | non exonérés | Non |
+Saint-André-Goule-d'Oie | 85250 | CC du Pays de Saint-Fulgent - Les Essarts | 2,5 % | non exonérés | Non |
+Saint-Aubin-des-Ormeaux | 85130 | CC du Pays de Mortagne | 2 % | exonérés à 100 % | Non |
+Saint-Aubin-la-Plaine | 85210 | CC Sud Vendée Littoral | 1 % | non exonérés | Non |
+Saint-Avaugourd-des-Landes | 85540 | CC Vendée Grand Littoral | 2 % | non exonérés | Non |
+Saint-Benoist-sur-Mer | 85540 | CC Vendée Grand Littoral | 3 % | non exonérés | Non |
+Saint-Christophe-du-Ligneron | 85670 | CC Challans-Gois Communauté | 3 % | non exonérés | Non |
+Saint-Cyr-des-Gâts | 85410 | CC du Pays de Fontenay-Vendée | 1 % | exonérés à 100 % | Non |
+Saint-Cyr-en-Talmondais | 85540 | CC Vendée Grand Littoral | 1,5 % | non exonérés | Non |
+Saint-Denis-du-Payré | 85580 | CC Sud Vendée Littoral | 2,5 % | non exonérés | Non |
+Saint-Denis-la-Chevasse | 85170 | CC de Vie et Boulogne | 3 % | non exonérés | Non |
+Saint-Fulgent | 85250 | CC du Pays de Saint-Fulgent - Les Essarts | 2 % | exonérés à 100 % | Non |
+Saint-Georges-de-Pointindoux | 85150 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Saint-Germain-de-Prinçay | 85110 | CC Pays de Chantonnay | 1,5 % | exonérés à 100 % | Non |
+Saint-Gervais | 85230 | CC Challans-Gois Communauté | 3 % | non exonérés | Non |
+Saint-Gilles-Croix-de-Vie | 85800 | CA du Pays de Saint-Gilles-Croix-de-Vie | 4 % | non exonérés | Non |
+Saint-Hilaire-de-Riez | 85270 | CA du Pays de Saint-Gilles-Croix-de-Vie | 4 % | exonérés à 100 % | Non |
+Saint-Hilaire-de-Voust | 85120 | CC du Pays de la Châtaigneraie | 1,5 % | exonérés à 100 % | Non |
+Saint-Hilaire-des-Loges | 85240 | CC Vendée, Sèvre, Autise | 1 % | non exonérés | Non |
+Saint-Hilaire-la-Forêt | 85440 | CC Vendée Grand Littoral | 3,5 % | non exonérés | Non |
+Saint-Hilaire-le-Vouhis | 85480 | CC Pays de Chantonnay | 1,5 % | non exonérés | Non |
+Saint-Jean-d'Hermine | 85210 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Saint-Jean-de-Monts | 85160 | CC Océan Marais de Monts | 4 % | non exonérés | Non |
+Saint-Juire-Champgillon | 85210 | CC Sud Vendée Littoral | 0 % | non exonérés | Non |
+Saint-Julien-des-Landes | 85150 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Saint-Laurent-de-la-Salle | 85410 | CC du Pays de Fontenay-Vendée | 1 % | non exonérés | Non |
+Saint-Laurent-sur-Sèvre | 85290 | CC du Pays de Mortagne | 1 % | non exonérés | Non |
+Saint-Maixent-sur-Vie | 85220 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3,5 % | exonérés à 50 % | Non |
+Saint-Malô-du-Bois | 85590 | CC du Pays de Mortagne | 1 % | non exonérés | Non |
+Saint-Mars-la-Réorthe | 85590 | CC du Pays des Herbiers | 2,5 % | exonérés à 100 % | Non |
+Saint-Martin-Lars-en-Sainte-Hermine | 85210 | CC Sud Vendée Littoral | 1 % | exonérés à 100 % | Non |
+Saint-Martin-de-Fraigneau | 85200 | CC du Pays de Fontenay-Vendée | 2,75 % | exonérés à 50 % | Non |
+Saint-Martin-des-Fontaines | 85570 | CC du Pays de Fontenay-Vendée | 1 % | exonérés à 100 % | Non |
+Saint-Martin-des-Noyers | 85140 | CC Pays de Chantonnay | 3,5 % | exonérés à 50 % | Non |
+Saint-Martin-des-Tilleuls | 85130 | CC du Pays de Mortagne | 3 % | non exonérés | Non |
+Saint-Mathurin | 85150 | CA Les Sables d'Olonne Agglomération | 4 % | non exonérés | Non |
+Saint-Maurice-des-Noues | 85120 | CC du Pays de la Châtaigneraie | 1 % | exonérés à 100 % | Non |
+Saint-Maurice-le-Girard | 85390 | CC du Pays de la Châtaigneraie | 1 % | exonérés à 100 % | Non |
+Saint-Mesmin | 85700 | CC du Pays de Pouzauges | 1,5 % | exonérés à 100 % | Non |
+Saint-Michel-en-l'Herm | 85580 | CC Sud Vendée Littoral | 2,1 % | non exonérés | Non |
+Saint-Michel-le-Cloucq | 85200 | CC du Pays de Fontenay-Vendée | 2 % | exonérés à 100 % | Non |
+Saint-Paul-Mont-Penit | 85670 | CC de Vie et Boulogne | 2,7 % | exonérés à 100 % | Oui (3 %) |
+Saint-Paul-en-Pareds | 85500 | CC du Pays des Herbiers | 2 % | non exonérés | Non |
+Saint-Philbert-de-Bouaine | 85660 | CA Terres de Montaigu | 3 % | exonérés à 100 % | Non |
+Saint-Pierre-du-Chemin | 85120 | CC du Pays de la Châtaigneraie | 1 % | non exonérés | Non |
+Saint-Pierre-le-Vieux | 85420 | CC Vendée, Sèvre, Autise | 1 % | exonérés à 100 % | Non |
+Saint-Prouant | 85110 | CC Pays de Chantonnay | 2 % | exonérés à 100 % | Non |
+Saint-Révérend | 85220 | CA du Pays de Saint-Gilles-Croix-de-Vie | 3,5 % | non exonérés | Oui (2, 3,5, 99 %) — valeur à vérifier |
+Saint-Sigismond | 85420 | CC Vendée, Sèvre, Autise | 1 % | exonérés à 100 % | Non |
+Saint-Urbain | 85230 | CC Challans-Gois Communauté | 3 % | non exonérés | Non |
+Saint-Valérien | 85570 | CC du Pays de Fontenay-Vendée | 1,2 % | non exonérés | Non |
+Saint-Vincent-Sterlanges | 85110 | CC Pays de Chantonnay | 1 % | non exonérés | Non |
+Saint-Vincent-sur-Graon | 85540 | CC Vendée Grand Littoral | 2 % | exonérés à 100 % | Oui (3 %) |
+Saint-Vincent-sur-Jard | 85520 | CC Vendée Grand Littoral | 3 % | non exonérés | Non |
+Saint-Étienne-de-Brillouet | 85210 | CC Sud Vendée Littoral | 1 % | exonérés à 100 % | Non |
+Saint-Étienne-du-Bois | 85670 | CC de Vie et Boulogne | 2,7 % | non exonérés | Oui (3 %) |
+Sainte-Cécile | 85110 | CC Pays de Chantonnay | 2,5 % | non exonérés | Non |
+Sainte-Flaive-des-Loups | 85150 | CC du Pays des Achards | 3 % | non exonérés | Non |
+Sainte-Florence | 85140 | CC du Pays de Saint-Fulgent - Les Essarts | 2,5 % | exonérés à 100 % | Non |
+Sainte-Foy | 85150 | CA Les Sables d'Olonne Agglomération | 3 % | non exonérés | Non |
+Sainte-Gemme-la-Plaine | 85400 | CC Sud Vendée Littoral | 1 % | non exonérés | Non |
+Sainte-Pexine | 85320 | CC Sud Vendée Littoral | 0 % | non exonérés | Non |
+Sainte-Radégonde-des-Noyers | 85450 | CC Sud Vendée Littoral | 2 % | non exonérés | Non |
+Sallertaine | 85300 | CC Challans-Gois Communauté | 3 % | non exonérés | Non |
+Sigournais | 85110 | CC Pays de Chantonnay | 1 % | non exonérés | Non |
+Soullans | 85300 | CC Océan Marais de Monts | 3 % | non exonérés | Non |
+Sèvremont | 85700 | CC du Pays de Pouzauges | 1,5 % | non exonérés | Non |
+Sérigné | 85200 | CC du Pays de Fontenay-Vendée | 1 % | exonérés à 100 % | Non |
+Tallud-Sainte-Gemme | 85390 | CC du Pays de Pouzauges | 1 % | non exonérés | Non |
+Talmont-Saint-Hilaire | 85440 | CC Vendée Grand Littoral | 3,5 % | exonérés à 100 % | Oui (3 %) |
+Terval | 85120 | CC du Pays de la Châtaigneraie | 1,2 % | exonérés à 100 % | Non |
+Thiré | 85210 | CC Sud Vendée Littoral | 1 % | non exonérés | Non |
+Thorigny | 85480 | CA La Roche-sur-Yon - Agglomération | 3 % | exonérés à 100 % | Non |
+Tiffauges | 85130 | CC du Pays de Mortagne | 3 % | non exonérés | Non |
+Treize-Septiers | 85600 | CA Terres de Montaigu | 3 % | exonérés à 100 % | Non |
+Treize-Vents | 85590 | CC du Pays de Mortagne | 3 % | non exonérés | Non |
+Triaize | 85580 | CC Sud Vendée Littoral | 2,5 % | non exonérés | Non |
+Vairé | 85150 | CA Les Sables d'Olonne Agglomération | 3 % | non exonérés | Non |
+Venansault | 85190 | CA La Roche-sur-Yon - Agglomération | 4,2 % | exonérés à 50 % | Oui (3 %) |
+Vendrennes | 85250 | CC du Pays des Herbiers | 2 % | exonérés à 100 % | Oui (4 %) |
+Vix | 85770 | CC Vendée, Sèvre, Autise | 1 % | exonérés à 50 % | Non |
+Vouillé-les-Marais | 85450 | CC Sud Vendée Littoral | 2 % | exonérés à 100 % | Non |
+Vouvant | 85120 | CC du Pays de Fontenay-Vendée | 3,5 % | exonérés à 50 % | Non |
+Xanton-Chassenon | 85240 | CC Vendée, Sèvre, Autise | 1,2 % | non exonérés | Non |
+Quand et comment payer
+Depuis 2022, la taxe se déclare aux impôts dans les 90 jours qui suivent l’achèvement des travaux, sur l’espace « Gérer mes biens immobiliers » du site impots.gouv.fr. Elle est payée en une fois si elle ne dépasse pas 1 500 €, en deux fois au-delà. Voir aussi les démarches pour une piscine et le simulateur de formalités .
+Questions fréquentes
+Quel est le taux de la taxe d’aménagement à Nantes en 2026 ?
+Le taux de la part intercommunale votée par Nantes Métropole est de 5 % en 2026, avec un taux de 20 % dans certains secteurs. S’y ajoute la part départementale de 2,5 %.
+Combien coûte la taxe d’aménagement pour une piscine de 32 m² ?
+Dans une commune à 5 %, avec la part départementale de 2,5 % : 32 m² × 251 € × 7,5 % = 602 € environ en 2026. Le calculateur ci-dessus fait le calcul pour votre commune.
+Un abri de jardin est-il soumis à la taxe d’aménagement ?
+Oui dès 5 m², sauf si votre commune l’exonère : c’est le cas, en tout ou en partie, dans environ la moitié des communes du 44 et du 85. La part départementale reste due dans tous les cas.
+Le taux a-t-il changé en Vendée en 2026 ?
+Oui pour la part départementale, passée de 1,5 % à 2,5 % au 1er janvier 2026. Les taux communaux dépendent de chaque commune.
+À lire aussi
+Piscine : déclaration, taxes, sécurité
+Les démarches d’urbanisme, la taxe d’aménagement, la taxe foncière et la sécurité obligatoire.
+Déclaration préalable ou permis ? Le simulateur
+La formalité à demander selon le projet, la surface et la zone du PLU.
+Véranda : prix, démarches et taxes
+Prix au m², formalités, taxe d’aménagement, taxe foncière et garanties.
+Piscinistes labellisés en Loire-Atlantique et en Vendée
+Les professionnels titulaires du label Propiscines, d’après l’annuaire officiel de la FPP.
+AB
+Aymen B. — J’écris ce guide à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Je ne suis pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. Ma méthode .
+Sources consultées
+Taxe d'aménagement - Éléments de taxation votés par les collectivités à partir de 2022 (DGFiP, application DELTA)
+Service-public — Taxe d’aménagement (F23263)
+Economie.gouv — Tout savoir sur la taxe d’aménagement
+Collectivités locales — Taxe d’aménagement
+
+## Piscinistes labellisés Propiscines en Loire-Atlantique et Vendée
+URL : https://exterieur-clair.fr/piscinistes-labellises
+
+Accueil › Piscinistes labellisés Piscinistes labellisés en Loire-Atlantique et en Vendée
+Les professionnels de la piscine titulaires d’un label de la Fédération des Professionnels de la Piscine, et comment les vérifier.
+Par Aymen B. Mis à jour le 21/10/2026 Lecture : 3 min
+En bref
+13 piscinistes labellisés en Loire-Atlantique et 23 en Vendée, d’après l’annuaire officiel de la FPP.
+Trois niveaux de label Propiscines : engagé, qualifié, certifié ; Proabris pour les abris de piscine.
+Le label ne remplace pas l’assurance décennale : demandez toujours l’attestation.
+Sommaire
+Ce que garantissent les labels
+Les piscinistes labellisés en Loire-Atlantique
+Les piscinistes labellisés en Vendée
+Comment vérifier un pisciniste
+Ce que garantissent les labels
+Propiscines® (engagé / qualifié / certifié) (Fédération des Professionnels de la Piscine et du Spa (FPP)) : Label créé par la FPP en 2012, en trois niveaux : « engagé » = signature d'une charte en 5 points (information et service client, assurances, engagements professionnels, sécurité, environnement) ; « qualifié » = charte + qualification SOCOTEC Certification (ou équivalent d'un organisme officiel) ; « certifié » = charte + certification SOCOTEC « constructeur de piscines » ou certification de service type ISO 9001.
+Proabris® : Label des fabricants/installateurs d'abris de piscine adhérents FPP : respect d'une charte en 5 chapitres (information et service client, qualité du travail, sécurité, environnement), assurance RC professionnelle, garantie décennale pour les abris concernés et formations régulières.
+Un label n’est pas une garantie de résultat : il atteste d’engagements et, pour les niveaux « qualifié » et « certifié », d’un contrôle par un organisme extérieur. Demandez toujours l’attestation d’assurance décennale avant de signer, et vérifiez le devis .
+Les piscinistes labellisés en Loire-Atlantique
+13 fiches de l’annuaire FPP affichent un label en Loire-Atlantique.
+Entreprise | Commune | Label | Activités |
+AF LECUGY | Loireauxence (44370) | Proabris engagé | Construction, Entretien / maintenance, Spa |
+JARDINS PISCINES SERVICES - L'ESPRIT PISCINE | La Plaine-Sur-Mer (44770) | Propiscines certifié | Construction, Entretien / maintenance, Spa |
+PISCINES WATERAIR (44) | Saint Herblain (44800) | Propiscines certifié | Construction, Entretien / maintenance |
+ALAIN CREFF PISCINES | La Chevroliere (44118) | Propiscines engagé | Construction, Entretien / maintenance |
+BVS PISCINES ET SPAS | Lege (44650) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+DIAIS PISCINE SPA | Chateaubriant (44110) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+PISCINELLE (Secteur Couvert) | Nantes (44000) | Propiscines engagé | Construction |
+PISCINELLE (Secteur Couvert) | Nantes (44000) | Propiscines engagé | Construction |
+PISCINES DE FRANCE GUERANDE | Guerande (44350) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+PISCINES GATEL GROUPEMENT PISCINIERS ASSOCIES | Carquefou (44470) | Propiscines engagé | Construction, Entretien / maintenance |
+PISCINES VINET - PAYSAGES PISCINES ENVIRONNEMENT LOISIRS | Basse Goulaine (44115) | Propiscines engagé | Construction, Entretien / maintenance |
+REVE DE PISCINE & SPA | Carquefou (44470) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+DIFFAZUR PISCINES ET SPAS NANTES CPLA | Orvault (44700) | Propiscines qualifié | Construction, Entretien / maintenance |
+Voir les 25 autres adhérents de la FPP en Loire-Atlantique (sans label affiché)
+Entreprise | Commune | Label | Activités |
+AM PISCINE | Pornichet (44380) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+BEAUTEMPS PISCINES | Le Cellier (44850) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+CADROPISCINE | Missillac (44780) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+CHRISTOPHE DURAND | Vertou (44120) | Adhérent FPP (aucun label affiché sur la fiche) | Construction |
+CM POSE | Corsept (44560) | Adhérent FPP (aucun label affiché sur la fiche) | Construction |
+COCKTAIL PISCINE & SPA | La Baule-Escoublac (44500) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Spa |
+ESPACE BLEU | Ancenis-Saint-Géréon (44150) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+ESPACE BLEU | Ancenis-Saint-Géréon (44150) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+ESPACE BLEU | Ancenis-Saint-Géréon (44150) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+GRAND OUEST PISCINE | Vigneux-De-Bretagne (44360) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+GROUPE LYSIA | Corsept (44560) | Adhérent FPP (aucun label affiché sur la fiche) | Construction |
+HELIOBULLE | Treillieres (44119) | Adhérent FPP (aucun label affiché sur la fiche) | Construction |
+ILOT PISCINES | Guérande (44350) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+INFIME OCEAN | Vertou (44120) | Adhérent FPP (aucun label affiché sur la fiche) | — |
+LAB&EAU | Vertou (44120) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+LAB&EAU piscine et entretien | Vertou (44120) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+Les PISCINES DE JADE | St Andre Des Eaux (44117) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+OCEA CONCEPT | Guerande (44350) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+ORAMO | La Baule-Escoublac (44500) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+PISCINE PAYSAGE 44 | Haute-Goulaine (44115) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+PISCINES 44 | Carquefou (44470) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+PISCINES 44 | Carquefou (44470) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+PISCINES 44 | Trignac (44570) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+PSB TRADITION | Saint-Herblain (44800) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+SOLIDPOOL NANTES - PAYSAGES DES DEUX RIVIERES | Nantes (44300) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+Ces entreprises adhèrent à la fédération professionnelle mais leur fiche n’affiche pas de label : elles ne doivent pas être considérées comme labellisées.
+Les piscinistes labellisés en Vendée
+23 fiches de l’annuaire FPP affichent un label en Vendée.
+Entreprise | Commune | Label | Activités |
+ABRI PISCINE GUSTAVE RIDEAU | Saint Mathurin (85150) | Proabris engagé | Construction |
+ABRINOVAL | Saint Denis La Chevasse (85170) | Proabris engagé | Construction |
+ABRISUD | Les Herbiers (85500) | Proabris engagé | — |
+CONCEPT ALU | Les Herbiers (85500) | Proabris engagé | — |
+TALMONT PISCINES | Talmont-Saint-Hilaire (85440) | Proabris engagé | Construction, Entretien / maintenance, Spa |
+ADG ENVIRONNEMENT | Chauche (85140) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+AL WATER | La Roche Sur Yon (85000) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+AMAZONE 2 | La Roche Sur Yon (85000) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+AMBIANCE BOIS - BLOOTIFUL Toulon | La Roche Sur Yon (85000) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+AMBIANCE PISCINES 71 | La Roche Sur Yon (85000) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+AMBIANCE PISCINES 85 | La Roche Sur Yon (85000) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+ATELIER PISCINE | Mouilleron Le Captif (85000) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+CRYSTAL PISCINES | Bretignolles-Sur-Mer (85470) | Propiscines engagé | Construction, Entretien / maintenance |
+EASY PISCINES & SPAS | Les Herbiers (85500) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+ECOLEO | La Roche Sur Yon (85000) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+IMERSION | Bellevigny (85170) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+LA VILLA PISCINE 85 | Angles (85750) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+LE MONDE DE L'O | Les Sables D'Olonne (85180) | Propiscines engagé | — |
+MGS - CAP PISCINES 85 | Aubigny Les Clouzeaux (85430) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+PISCINES DE FRANCE LES SABLES D'OLONNE | Les Sables D'Olonne (85180) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+POOL AND CO | Challans (85300) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+POOL AND CO | Les Sables-D'Olonne (85340) | Propiscines engagé | Construction, Entretien / maintenance, Spa |
+QUALI PISCINES | Montaigu-Vendée (85600) | Propiscines engagé | Construction, Entretien / maintenance |
+Voir les 26 autres adhérents de la FPP en Vendée (sans label affiché)
+Entreprise | Commune | Label | Activités |
+A2B SERVICE PISCINES & SPA | Avrille (85440) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+AJ PISCINES | La Roche-Sur-Yon (85000) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+AKENA | Dompierre-Sur-Yon (85170) | Adhérent FPP (aucun label affiché sur la fiche) | — |
+AMBIANCE PISCINES 85 | Challans (85300) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+AMBIANCE PISCINES 85 | Challans (85300) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+AMBIANCE PISCINES 85 | Challans (85300) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+ARRIVE PISCINE ET SPAS | Essarts En Bocage (85140) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+ATS FORCE 2 | Challans (85300) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+BATI PRO 85 PISCINE | Bellevigny (85170) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+BULTEAU PAYSAGES | Jard Sur Mer (85520) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+BULTEAU PISCINES ET SPAS | Talmont-Saint-Hilaire (85440) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+CHAUVIN PAYSAGE | Aubigny-Les Clouzeaux (85430) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+EASY PISCINES | Les Herbiers (85500) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+ECHAPPEE ZEN | Givrand (85800) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+GREENGARDENS | La Guérinière (85680) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+KORO | Saint-Hilaire-De-Riez (85270) | Adhérent FPP (aucun label affiché sur la fiche) | Construction |
+LJKL TECHNIQUES PISCINES | Aubigny-Les-Clouzeaux (85430) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+MENARD CREATIONS - L'ESPRIT PISCINE | Givrand (85800) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+MG POOL CONCEPT | Landeronde (85150) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Spa |
+O CONCEPT | Fontenay Le Comte (85200) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+O CONCEPT | Fontenay Le Comte (85200) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+OCEDIS | Fontenay Le Comte (85200) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+PAUSE NATURE | St Cyr En Talmondais (85540) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+PAYSAGE YONNAIS | Moutiers-Les-Mauxfaits (85540) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+REFLETS D'ETE | Talmont Saint Hilaire (85440) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance |
+YC PISCINES | Brem Sur Mer (85470) | Adhérent FPP (aucun label affiché sur la fiche) | Construction, Entretien / maintenance, Spa |
+Ces entreprises adhèrent à la fédération professionnelle mais leur fiche n’affiche pas de label : elles ne doivent pas être considérées comme labellisées.
+Comment vérifier un pisciniste
+Retrouvez l’entreprise sur l’annuaire officiel Propiscines : le label est indiqué sur sa fiche.
+Demandez l’attestation d’assurance décennale, nominative et valable à la date d’ouverture du chantier.
+Vérifiez que le devis précise le type de structure, le système de filtration et le dispositif de sécurité normalisé (obligatoire).
+Comparez au moins deux devis à prestations égales : le guide prix d’une piscine donne les ordres de grandeur.
+Questions fréquentes
+Qu’est-ce que le label Propiscines ?
+C’est le label de la Fédération des Professionnels de la Piscine et du Spa, en trois niveaux : engagé (signature d’une charte), qualifié (charte et qualification par un organisme extérieur) et certifié (charte et certification).
+Combien de piscinistes sont labellisés en Loire-Atlantique et en Vendée ?
+D’après l’annuaire de la FPP consulté le 21/10/2026, 13 fiches affichent un label en Loire-Atlantique et 23 en Vendée. D’autres entreprises adhèrent à la fédération sans label affiché.
+Un pisciniste non labellisé est-il moins fiable ?
+Pas forcément : le label est volontaire. Il apporte des engagements vérifiables, mais l’assurance décennale, les références et un devis détaillé restent les vrais critères.
+À lire aussi
+Prix d’une piscine en 2026
+Coque, béton, kit, piscine naturelle : les fourchettes de prix et ce qui les fait varier.
+Piscine : déclaration, taxes, sécurité
+Démarches d’urbanisme, taxe d’aménagement, taxe foncière et sécurité.
+Paysagistes qualifiés en Loire-Atlantique et en Vendée
+Les entreprises du paysage qualifiées QualiPaysage ou adhérentes de l’Unep.
+Taxe d’aménagement : le taux de votre commune
+Les taux 2026 des 460 communes du 44 et du 85 et un calculateur.
+AB
+Aymen B. — J’écris ce guide à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Je ne suis pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. Ma méthode .
+Sources consultées
+Propiscines® (engagé / qualifié / certifié) — les professionnels labellisés
+Proabris® — le label des abris
+FPP — rechercher un professionnel
+
+## Paysagistes qualifiés en Loire-Atlantique et Vendée (QualiPaysage)
+URL : https://exterieur-clair.fr/paysagistes-qualifies
+
+Accueil › Paysagistes qualifiés Paysagistes qualifiés en Loire-Atlantique et en Vendée
+Les entreprises du paysage qualifiées QualiPaysage ou adhérentes de l’Unep, pour une terrasse, une clôture, un aménagement autour de la piscine ou un jardin.
+Par Aymen B. Mis à jour le 21/10/2026 Lecture : 3 min
+En bref
+14 paysagistes qualifiés QualiPaysage en Loire-Atlantique, 4 en Vendée.
+247 entreprises adhérentes de l’Unep dans les deux départements.
+Une adhésion n’est pas une qualification : vérifiez l’assurance décennale pour les ouvrages.
+Sommaire
+Qualification ou adhésion : la différence
+Les paysagistes en Loire-Atlantique
+Les paysagistes en Vendée
+Bien choisir son paysagiste
+Qualification ou adhésion : la différence
+QualiPaysage (QualiPaysage – organisme professionnel de qualification des entreprises du paysage (tutelle du ministère de l’Agriculture)) : Qualification délivrée par domaine (aménagements paysagers, entretien, élagage, arrosage…) au niveau « Confirmé » ou « Spécialisé », sur la base d'attestations techniques et administratives et de références de chantiers, avec révision quadriennale ; certaines qualifications exigent le Certiphyto décideur.
+Adhérent Unep – Les Entreprises du Paysage : Adhésion à l'organisation professionnelle du paysage (et non une certification) ; l'Unep indique que ses adhérents souscrivent à des engagements, mais leur contenu détaillé n'a pas pu être lu sur la page publique (affiché en image).
+Une qualification est délivrée après examen de dossier ; une adhésion syndicale n’est pas une certification. Dans tous les cas, demandez l’attestation d’assurance décennale pour les ouvrages concernés (terrasse, mur, bassin).
+Les paysagistes en Loire-Atlantique
+Qualifiés QualiPaysage (14)
+Entreprise | Commune |
+ABELJADE | Saint Brevin Les Pins (44250) |
+AMEX LOIRE | La Haie Fouassiere (44690) |
+ATLANTIC SUD PAYSAGE SAS | Le Pellerin (44640) |
+BC ARBRES ET PAYSAGES | Thouaree Sur Loire (44470) |
+ENPJ - ENTREPRISE NANTAISE PARCS & JARDINS | Nantes (44300) |
+FLORA PAYSAGE | Clisson (44190) |
+JARDIN DECOR | Getigne (44190) |
+JAULIN PAYSAGES | Carquefou (44470) |
+LES OUVRIERS DU JARDIN | Haute Goulaine (44115) |
+ORAMO | La Baule Escoublac (44500) |
+PEPINIERES ENVIRONNEMENT SERVICES | St Nazaire (44600) |
+ROCHER PARCS ET JARDINS | Nort-Sur-Erdre (44390) |
+VERDE TERRA | Bouguenais Cedex (44341) |
+VERDILIGNES | St Nazaire (44600) |
+Voir les 175 adhérents de l’Unep en Loire-Atlantique
+Entreprise | Commune | Activités |
+44 AMÉNAGEMENT | Herbignac (44410) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage |
+44 PAYSAGE | Herbignac (44410) | Entretien de jardins ou espaces verts |
+A D J ESPACES VERTS | Saint Mars De Coutais (44680) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts |
+ABELJADE SARL | Saint Brevin Les Pins (44250) | Élagage et abattage |
+AJEIP LES GRIMPEURS DE L'OUEST | Saint-Nazaire (44600) | Entretien de jardins ou espaces verts, Élagage et abattage |
+AMENAGEMENT NATUREL DU PAYSAGE | Vallet (44330) | Création de jardins ou espaces verts |
+ARBOR OUEST | Pornic (44210) | Entretien de jardins ou espaces verts, Élagage et abattage |
+ARBRES ET JARDINS DU CENS | Grandchamps-des-fontaines (44119) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage |
+ARBRES ET JARDINS PASSION | La Chevroliere (44118) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Arrosage automatique, Entretien de jardins ou espaces verts |
+ARBRES ET JARDINS SERVICES | La Chevroliere (44118) | Entretien de jardins ou espaces verts |
+ART PAYSAGE | Varades (44370) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+ARTEGO | Nantes (44000) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+ARTISANS DU PAYSAGE | St Nazaire (44600) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts |
+ATELIER NANTAIS DU PAYSAGE BY THIBAULT VETAULT | Nantes (44000) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+ATLANTIQUE CONCEPT PAYSAGE | Saint-Philbert-De-Grand-Lieu (44310) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+ATLANTIQUE JARDINAGE | Saint Mars Du Desert (44850) | — |
+ATLANTIQUE PAYSAGES | Saint Mars Du Desert (44850) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+ATOUT JARDIN SERVICES | Vertou (44120) | Entretien de jardins ou espaces verts |
+ATYPIC JARDIN | Saint Philbert De Grand Lieu (44310) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Végétalisation des bâtiments, Bureau d'étude interne |
+AU JARDIN DES REVES | La Plaine Sur Mer (44770) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+AU JARDIN DES REVES SAINT BREVIN | Saint-Brevin-les-Pins (44250) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+BARREAU PAYSAGE | Saint Mars De Coutais (44680) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur |
+BEAUTEMPS PAYSAGES SAS | Le Cellier (44850) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Entretien de jardins ou espaces verts, Élagage et abattage |
+BERTIAU JARDINS SERVICES | Guerande (44350) | Entretien de jardins ou espaces verts |
+BERTIAU PAYSAGE | Guérande (44350) | Création de jardins ou espaces verts |
+BLANLOEIL ENVIRONNEMENT | Carquefou (44470) | Entretien de jardins ou espaces verts |
+BREIZH SERVICES | Pont Saint Martin (44860) | Entretien de jardins ou espaces verts |
+BRETAUDEAU PAYSAGES | Gétigné (44190) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+BRETAUDEAU SERVICES | Gétigné (44190) | Entretien de jardins ou espaces verts |
+CEDRE BLANC | Nantes (44300) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Bureau d'étude interne |
+CESSOU ENTRETIENS | Vigneux-De-Bretagne (44360) | Entretien de jardins ou espaces verts |
+CESSOU PAYSAGISTE | Vigneux De Bretagne (44360) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+CHANTIER VERT ENVIRONNEMENT | Ste Luce Sur Loire (44980) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+CHANTIER VERT SERVICES | Ste Luce Sur Loire (44980) | — |
+CHERON PAYSAGE | Le Pallet (44330) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts |
+CHERON PAYSAGE SERVICES | Le Pallet (44330) | Entretien de jardins ou espaces verts |
+CHEVALIER GUICHARD | Vertou (44120) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Élagage et abattage |
+CHLORO VILLE 44 | Nantes (44000) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Élagage et abattage |
+COMPAGNON DES ARBRES | Saint-Père-En-Retz (44320) | Élagage et abattage |
+CONSTRUCTIONS LA FONTAINE AUX BRETONS | Pornic (44210) | Entretien de jardins ou espaces verts |
+CORMERAIS PAYSAGE | Port Saint Pere (44710) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage |
+COTE OUEST JARDIN PAYSAGE | Herbignac (44410) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts |
+COULEUR NATURE | Montrelais (44370) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+COUSU MAIN | Le Loroux Bottereau (44430) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts |
+CREA PAYSAGE | Notre Dame Des Landes (44130) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Arrosage automatique, Entretien de jardins ou espaces verts |
+CREA VERT PASSION | Paulx (44270) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Entretien de jardins ou espaces verts |
+CREOJARDINS | Vertou (44120) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts |
+CREOJARDINS SERVICES | Vertou (44120) | Entretien de jardins ou espaces verts |
+CROSSOUARD DAVID | Moisdon La Riviere (44520) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Entretien de jardins ou espaces verts, Élagage et abattage |
+DAMIEN GLASSON | Saint-Herblain (44800) | Création de jardins ou espaces verts, Réalisation de terrasses, Entretien de jardins ou espaces verts |
+DANDO JARDINIER PAYSAGISTE | Vallet (44330) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+DANDO JARDINIER SERVICES | Vallet (44330) | — |
+DB PAYSAGE | Maisdon-Sur-Sèvre (44690) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère |
+DB PAYSAGE SERVICES | Maisdon-Sur-Sèvre (44690) | Entretien de jardins ou espaces verts |
+DE CHAMPSAVIN ELAGAGE ET PAYSAGE | Thouare Sur Loire (44470) | Élagage et abattage |
+DECO JARDIN | Vigneux-De-Bretagne (44360) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+DECO JARDIN SERVICE | Vigneux De Bretagne (44360) | — |
+DENIGOT JARDINS SERVICES | Herbignac (44410) | Entretien de jardins ou espaces verts |
+DENIGOT PAYSAGE AMENAGEMENT | Herbignac (44410) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Élagage et abattage |
+DP JARDIN | Haute-Goulaine (44115) | Entretien de jardins ou espaces verts |
+DREAMIS ENTRETIEN DE JARDIN | Guerande (44350) | Entretien de jardins ou espaces verts |
+DREAMIS JARDINS PAYSAGES | Guerande (44350) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Arrosage automatique, Élagage et abattage, Végétalisation des bâtiments |
+DROUET PATRICK | Monnieres (44690) | Entretien de jardins ou espaces verts |
+EB SERVICE | Vertou (44120) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+ECO-PATURAGE 44 | Le Loroux-Bottereau (44430) | Entretien de jardins ou espaces verts |
+EFFIVERT | Pontchateau (44160) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Végétalisation des bâtiments, Bureau d'étude interne |
+EFFIVERT ANCENIS | Mesanger (44522) | Entretien de jardins ou espaces verts |
+EFFIVERT NANTES | Saint-Julien-De-Concelles (44450) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Arrosage automatique, Entretien de jardins ou espaces verts, Végétalisation des bâtiments, Bureau d'étude interne |
+EFFIVERT PONTCHATEAU | Pontchateau (44160) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Végétalisation des bâtiments, Bureau d'étude interne |
+EI PINEAU FREDDY | Montrelais (44370) | Entretien de jardins ou espaces verts |
+ELAGAGE DE LA DIVATTE | Divatte-Sur-Loire (44450) | Élagage et abattage |
+ERDRE PAYSAGE | Suce-Sur-Erdre (44240) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+ESPRITS NATURE | Saint-Mars-Du-Desert (44850) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts |
+FLORA PAYSAGE | Clisson (44190) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+FONTENEAU HERVÉ ENTREPRISE | Haute Goulaine (44115) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+FONTENEAU SERVICES | Haute Goulaine (44115) | Entretien de jardins ou espaces verts |
+FRANCHETEAU VINCENT EIRL | La Planche (44140) | Entretien de jardins ou espaces verts |
+GAUTHIER PAYSAGE SARL | Saint Sebastien Sur Loire (44230) | Création de jardins ou espaces verts |
+GC SERVICES | Vertou (44120) | Entretien de jardins ou espaces verts |
+GRAINDORGE PAYSAGE | Moisdon La Riviere (44520) | Création de jardins ou espaces verts, Bassins / Piscines / Jeux d'eau, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+GUILLAUME CHEVALIER PAYSAGISTE | St Etienne De Montluc (44360) | Création de jardins ou espaces verts, Éclairage extérieur, Entretien de jardins ou espaces verts |
+HARMONIE BOIS & VEGETALE | Pornic (44210) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+HERBORATUM 44 SARL | Heric (44810) | Entretien de jardins ou espaces verts |
+HERBORIZON | Villeneuve-En-Retz (44580) | Entretien de jardins ou espaces verts, Élagage et abattage |
+HORTUS MAÇONNERIE | Divatte-Sur-Loire (44450) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau |
+ID VERDE - ARROSAGE SYSTEM - NANTES FINISTERE | La Chapelle-sur-Erdre (44240) | Arrosage automatique |
+ID VERDE - NANTES - NANTES FINISTERE | Vigneux De Bretagne (44360) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+JARDI CREATIONS | Aigrefeuille-Sur-Maine (44140) | Création de jardins ou espaces verts, Réalisation de terrasses, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Végétalisation des bâtiments, Bureau d'étude interne |
+JARDI ENTRETIENS | Aigrefeuille-Sur-Maine (44140) | Entretien de jardins ou espaces verts |
+JARDIN DECOR SA | Getigne (44190) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts |
+JARDIN DECOR SERVICES | Clisson Cedex (44192) | Entretien de jardins ou espaces verts |
+JARDIN SERVICES | Chateauthebaud (44690) | Entretien de jardins ou espaces verts |
+JARDINIER MALIN | Carquefou (44470) | Entretien de jardins ou espaces verts |
+JARDINS A THEMES | La Chapelle-Sur-Erdre (44240) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+JARDINS A THEMES SERVICES | La Chapelle-Sur-Erdre (44240) | Entretien de jardins ou espaces verts |
+JARDINS DE GALLY GRAND OUEST LE BIGNON | Le Bignon (44140) | Création de jardins ou espaces verts, Réalisation de terrasses, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+JARDINS DES 3 PROVINCES | Boussay (44190) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts |
+JARDINS DU PAYS NANTAIS | Reze (44400) | Création de jardins ou espaces verts, Réalisation de terrasses, Entretien de jardins ou espaces verts, Élagage et abattage |
+JARDI’CA | La Chapelle Sur Erdre (44240) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Entretien de jardins ou espaces verts, Élagage et abattage |
+JAULIN PAYSAGES | Carquefou (44470) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+JEROME MOINET PAYSAGE | La Haie Fouassiere (44690) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+JEROME MOINET SERVICES | La Haie-Fouassière (44690) | Entretien de jardins ou espaces verts |
+J’M JARDIN | Joué sur Erdre (44440) | Entretien de jardins ou espaces verts |
+J’M JARDIN SERVICE | Joué sur Erdre (44440) | Entretien de jardins ou espaces verts |
+KAMI PAYSAGES | Nantes (44000) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Végétalisation des bâtiments |
+LANTANA LOIRAT JARDINAGE | Guerande (44350) | Entretien de jardins ou espaces verts |
+LANTANA LOIRAT PAYSAGE | Guerande (44350) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+LB JARDINAGE | Herbignac (44410) | Entretien de jardins ou espaces verts |
+LE DOMAINE DU PAYSAGE | Chateau Thebaud (44690) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+LE DOMAINE DU PAYSAGE SERVICES | Chateau-Thebaud (44690) | Entretien de jardins ou espaces verts |
+LE QUELLEC PAYSAGE | Pont Saint Martin (44860) | Création de jardins ou espaces verts, Élagage et abattage |
+LEAUTE PAYSAGE | Vertou (44120) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+LECOMTE PAYSAGE | Orvault (44700) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+LEGAL MAURICE SARL | Guerande (44350) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Bureau d'étude interne |
+LES JARDINS DE L'ESTUAIRE | Saint-Brevin-les-Pins (44250) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+LES JARDINS DU LITTORAL | Saint Nazaire (44600) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Élagage et abattage |
+LES JARDINS D’ADONIS | Vigneux De Bretagne (44360) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau |
+LES JARDINS EN VOYAGE | Vallons-De-L'Erdre (44540) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+LES OUVRIERS DU JARDIN | Haute Goulaine (44115) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage |
+LOIRE PAYSAGE | Carquefou (44470) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Entretien de jardins ou espaces verts |
+LOIRE PAYSAGE SERVICES | Carquefou (44470) | Entretien de jardins ou espaces verts |
+LOUERAT SARL | Carquefou (44470) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+LOUERAT SERVICES | Carquefou (44470) | Entretien de jardins ou espaces verts |
+MANU PAYSAGE | Herbignac (44410) | Création de jardins ou espaces verts, Arrosage automatique, Élagage et abattage, Bureau d'étude interne |
+MB PAYSAGE | Saint Aignan Grandlieu (44860) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Élagage et abattage |
+MES JARDINIERS | Nantes (44300) | Création de jardins ou espaces verts, Réalisation de terrasses, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+MIMAULT | Carquefou (44470) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage |
+MORIO PAYSAGE | Saint-Etienne-De-Mer-Morte (44270) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+MORISSEAU NANTES | Saint-Herblain (44800) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+NATURE ET PAYSAGE SARL | Saint-Père-En-Retz (44320) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Arrosage automatique, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+NEGOCE ET PAYSAGE | Le Pallet (44330) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère |
+NGE PAYSAGES BPL | Saint-Herblain (44800) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+OPUNTIA PAYSAGES | Pontchateau (44160) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+ORAMO | La Baule-Escoublac (44500) | Création de jardins ou espaces verts, Réalisation de terrasses, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+O’XYGEN SAINTE LUCE SUR LOIRE | Sainte-Luce-Sur-Loire (44980) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+PAIN CONCEPT DESIGN PAYSAGE | Batz Sur Mer (44740) | Création de jardins ou espaces verts, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Élagage et abattage, Végétalisation des bâtiments |
+PAPYRUS PAYSAGE | Sainte-Pazanne (44680) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+PAYSAGE 360 | La Chevroliere (44118) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Végétalisation des bâtiments, Bureau d'étude interne |
+PAYSAGE SERVICE | Saint-Étienne-De-Montluc (44360) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Végétalisation des bâtiments, Bureau d'étude interne |
+PAYSAGES DES DEUX RIVIERES | Nantes (44300) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Arrosage automatique, Bureau d'étude interne |
+PEPINIERES ENVIRONNEMENT SERVICES | Saint Nazaire (44600) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts |
+PERMAPAYSAGE | Vallet (44330) | Création de jardins ou espaces verts, Réalisation de terrasses, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+PLANTES & CO | Sainte-Luce-Sur-Loire (44980) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+POMONA PAYSAGE | Nantes (44100) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+PPEL | Basse Goulaine (44115) | Création de jardins ou espaces verts |
+RACINE CARREE | Rezé (44400) | Création de jardins ou espaces verts, Réalisation de terrasses, Arrosage automatique, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+RASTEL CLEMENT | Guerande (44350) | Création de jardins ou espaces verts |
+REFLETS VERTS | Aigrefeuille-Sur-Maine (44140) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts |
+ROELS PAYSAGES | Batz Sur Mer (44740) | Création de jardins ou espaces verts, Bassins / Piscines / Jeux d'eau, Arrosage automatique, Élagage et abattage |
+ROELS WILFRID SERVICES | Le Pouliguen (44510) | Entretien de jardins ou espaces verts |
+ROLLAND GAEL TERRASSES ET JARDINS | Nort-Sur-Erdre (44390) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Entretien de jardins ou espaces verts |
+SARL JARDI VERT | Haute Goulaine (44115) | Entretien de jardins ou espaces verts |
+SARL LEGAL JARDINAGE SERVICES | Guerande (44350) | Entretien de jardins ou espaces verts |
+SAS DUPIN | Ancenis-Saint-Gereon (44150) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur |
+SAS LHOMME | Mesanger (44522) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur |
+SAS PASQUIER | Mésanger (44522) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur |
+SASU SERPE - NANTES-BOUGUENAIS | Bouguenais (44340) | Entretien de jardins ou espaces verts, Élagage et abattage |
+SMP | St Viaud (44320) | Création de jardins ou espaces verts, Arrosage automatique, Élagage et abattage |
+STEPHANE LEROY PAYSAGE | Maisdon Sur Sevre (44690) | Création de jardins ou espaces verts, Arrosage automatique, Élagage et abattage |
+STEPHANE LEROY SERVICES | Maisdon Sur Sevre (44690) | Entretien de jardins ou espaces verts |
+SUD LOIRE PAYSAGE | Lege (44650) | Création de jardins ou espaces verts, Réalisation de terrasses, Élagage et abattage |
+SUD LOIRE PAYSAGE ENTRETIEN | Lege (44650) | Entretien de jardins ou espaces verts |
+SYMBIOSE ELAGAGE | La Chevallerais (44810) | Entretien de jardins ou espaces verts, Élagage et abattage |
+TECHNATURA | Herbignac (44410) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+TECHNATURA SERVICES | Herbignac (44410) | Entretien de jardins ou espaces verts |
+TERRE DE CREATION | La Roche-Blanche (44522) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts |
+TOURE PAYSAGES | Herbignac (44410) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Élagage et abattage |
+TOURE SERVICES | Herbignac (44410) | Entretien de jardins ou espaces verts |
+UN BRIN DE NATURE | Carquefou (44470) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+VALLOIS - AGENCE PAYS DE LA LOIRE | La Chapelle-Sur-Erdre (44240) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+VERDE TERRA | Bouguenais Cedex (44341) | Création de jardins ou espaces verts, Réalisation de terrasses, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+VERT MORISSON | Bouguenais (44340) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Végétalisation des bâtiments |
+VEZIN JARDINS SERVICES | La Chapelle Basse Mer (44450) | Entretien de jardins ou espaces verts |
+VEZIN PAYSAGE | Divatte-Sur-Loire (44450) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+VIGNERAL ELAGAGE | Bouvron (44130) | Élagage et abattage |
+Les paysagistes en Vendée
+Qualifiés QualiPaysage (4)
+Entreprise | Commune |
+BROSSEAU | Bouffere (85600) |
+CAJEV | La Roche Sur Yon (85000) |
+MAINS VERTES ET PAYSAGES | Curzais (85000) |
+PREAUD PAYSAGISTE SARL | St Mars La Reorthe (85590) |
+Voir les 72 adhérents de l’Unep en Vendée
+Entreprise | Commune | Activités |
+2 LAYS CREATION | Le Boupère (85510) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts |
+A L’ECOUTE DES JARDINS | Sainte Flaive-Des-Loups (85150) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur |
+ALED JARDINS SERVICES | Sainte-Flaive-Des-Loups (85150) | Entretien de jardins ou espaces verts |
+ARBO VENDEE | Aizenay (85190) | Élagage et abattage |
+ARCREA PAYSAGE | Montreverd (85260) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Bureau d'étude interne |
+ATLANTIQUE OUEST PAYSAGE | Chantonnay (85110) | Entretien de jardins ou espaces verts, Élagage et abattage |
+ATYPIC PAYSAGE | Saint-Hilaire-De-Riez (85270) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bureau d'étude interne |
+AURELIEN BULTEAU PAYSAGE | St Christophe Du Ligneron (85670) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+BERNARD PAYSAGES | Soullans (85300) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts |
+BONNIN PAYSAGISTE | Les Herbiers (85500) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts |
+BROSSEAU ENTRETIEN | Bouffere (85600) | Entretien de jardins ou espaces verts |
+BROSSEAU PAYSAGES | Montaigu Vendee (85600) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+CADRE EXTERIEUR | Essarts-En-Bocage (85140) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Bureau d'étude interne |
+CAJEV | La Roche Sur Yon (85000) | Création de jardins ou espaces verts, Bassins / Piscines / Jeux d'eau, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+CAJEV SERVICES | La Roche Sur Yon (85000) | Entretien de jardins ou espaces verts |
+CHAIGNEAU PAYSAGISTE | La Barre De Monts (85550) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+CJ PAYSAGE | Saint Paul En Pareds (85500) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+COTE&PAYSAGE | Saint-Vincent-Sur-Jard (85520) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Élagage et abattage, Bureau d'étude interne |
+CYRIL TABARD | Notre-Dame-De-Riez (85270) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+DSP PAYSAGE | La Copechagnière (85260) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+DUPOUE ELAGAGE | Noirmoutier En L'Ile (85330) | Élagage et abattage |
+ERIC JARDINS | La Mothe Achard (85150) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Élagage et abattage |
+ESPACE NATURE | Beauvoir Sur Mer (85230) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+EURL ERIC JARDINS | La Mothe Achard (85150) | Entretien de jardins ou espaces verts |
+FABIEN DURET PAYSAGE | St Mathurin (85150) | Création de jardins ou espaces verts, Réalisation de terrasses, Arrosage automatique, Élagage et abattage |
+FRANCK PINEAU PAYSAGISTE | Les Herbiers (85500) | Création de jardins ou espaces verts |
+GARDEN PAYSAGE | Les Herbiers (85500) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Bureau d'étude interne |
+GARON PAYSAGE | Fontenay-Le-Comte (85200) | Création de jardins ou espaces verts, Bassins / Piscines / Jeux d'eau, Arrosage automatique |
+GASSE PARCS ET JARDINS | Saint-Jean-De-Monts (85160) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+GM VOS JARDINS | Froidfond (85300) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts |
+GORICHON PAYSAGISTE | Saint Michel En L'Herm (85580) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+GUILBAUD JACKY | Le Boupere (85510) | Création de jardins ou espaces verts |
+ID VERDE - SABLES D’OLONNE - ATLANTIQUE | Talmont Saint Hilaire (85440) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+ID VERDE - VENDEE - ATLANTIQUE | Challans Cedex (85306) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+JARDINS DE VENDEE | Aizenay (85190) | Création de jardins ou espaces verts, Éclairage extérieur, Entretien de jardins ou espaces verts |
+JARDINS D’AUTISES | Maillezais (85420) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+JARDI’LYS SERVICES | Olonne Sur Mer (85100) | Entretien de jardins ou espaces verts |
+JEANNIERE ENTRETIEN | Les Herbiers (85500) | Entretien de jardins ou espaces verts |
+JEANNIERE PAYSAGES | Les Herbiers (85500) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+LA TAILLE EST BELLE | Saint Martin Des Tilleuls (85130) | Entretien de jardins ou espaces verts |
+LES JARDINS DU MARQUIS | Vix (85770) | Création de jardins ou espaces verts, Réalisation de terrasses, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+M PAYSAGE | Les Achards (85150) | Création de jardins ou espaces verts, Éclairage extérieur, Arrosage automatique, Végétalisation des bâtiments |
+MARMIN ESPACES VERTS | Essarts En Bocage (85140) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts |
+MAXIME NICOLLEAU PAYSAGE | Noirmoutier En L'Ile (85330) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts |
+MON BIO JARDIN SERVICES | L'Île-D'Yeu (85350) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+NATURA YEU | L'Ile-D'Yeu (85350) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+OGARDEN | Rocheservière (85620) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+ORTIE | L'Ile-D'Olonne (85340) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments, Bureau d'étude interne |
+O’XYGEN PAYSAGE | Bellevigny (85170) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+PAYSAGE VENDEE BOCAGE | Saint-Malo-Du-Bois (85590) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+PAYSAGE VERRIAIS | La Verrie (85130) | Création de jardins ou espaces verts, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Élagage et abattage, Bureau d'étude interne |
+PAYSAGE VERRIAIS SERVICE A LA PERSONNE | Chanverrie (85130) | Entretien de jardins ou espaces verts |
+PAYSALIS | Soullans (85300) | Création de jardins ou espaces verts, Réalisation de terrasses, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+PELLERIN PAYSAGES | La Gaubretiere (85130) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Arrosage automatique |
+PEPINIERES GRELIER | Olonne Sur Mer (85340) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage, Végétalisation des bâtiments |
+PILLET DAVID | Corpe (85320) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+PILLET SERVICES ESPACES VERTS | Corpe (85320) | — |
+PLAIRE SARL | Le Langon (85370) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Entretien de jardins ou espaces verts, Élagage et abattage |
+POISSON SAS | Montaigu (85600) | Création de jardins ou espaces verts, Élagage et abattage |
+PREAUD ENTRETIEN | Saint-Mars-La-Réorthe (85590) | Entretien de jardins ou espaces verts |
+PREAUD PAYSAGISTE | Saint-Mars-La-Réorthe (85590) | Création de jardins ou espaces verts, Réalisation de terrasses, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+ROTURIER PAYSAGE | Sèvremont (85700) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts, Élagage et abattage |
+SARL GILBERT LEBRETON PAYSAGISTE | Rocheserviere (85620) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts, Élagage et abattage |
+SASU SERPE - CHANTONNAY | Chantonnay (85110) | Élagage et abattage |
+SERVICES JARDINS PLAIRE | Le Langon (85370) | Entretien de jardins ou espaces verts |
+SEVE | Mouilleron Le Captif (85000) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts |
+TECERES | Rives-D'Autise (85240) | Arrosage automatique |
+VAGUE DE NATURE | Les Sables D'Olonne (85100) | Création de jardins ou espaces verts |
+VAL’ PAYSAGE | Saint Prouant (85110) | Création de jardins ou espaces verts, Arrosage automatique, Entretien de jardins ou espaces verts |
+VENDEE VERDURE CREATION | Challans (85300) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Entretien de jardins ou espaces verts, Élagage et abattage |
+VERDEN PAYSAGE | Montaigu (85600) | Création de jardins ou espaces verts, Entretien de jardins ou espaces verts |
+VERRET ECO PAYSAGE | Aizenay (85190) | Création de jardins ou espaces verts, Réalisation de terrasses, VRD / Maçonnerie paysagère, Bassins / Piscines / Jeux d'eau, Éclairage extérieur, Arrosage automatique, Entretien de jardins ou espaces verts, Bureau d'étude interne |
+Bien choisir son paysagiste
+Vérifiez la qualification sur l’annuaire QualiPaysage ou l’adhésion sur celui de l’Unep.
+Pour une terrasse surélevée, un mur ou une clôture maçonnée, exigez l’assurance décennale.
+Faites préciser au devis les matériaux, les surfaces et l’évacuation des déchets ; voir le guide terrasse et clôture et portail .
+Les travaux d’entretien du jardin réalisés par une entreprise agréée services à la personne ouvrent droit à un crédit d’impôt : demandez-le au paysagiste.
+Questions fréquentes
+Qu’est-ce que QualiPaysage ?
+C’est l’organisme de qualification des entreprises du paysage : il délivre des qualifications après examen des compétences, des références et des assurances de l’entreprise.
+Combien de paysagistes qualifiés en Loire-Atlantique et en Vendée ?
+D’après les annuaires consultés le 21/10/2026 : 14 entreprises qualifiées QualiPaysage et 175 adhérentes de l’Unep en Loire-Atlantique, 4 et 72 en Vendée.
+Une adhésion à l’Unep est-elle un label ?
+Non : c’est l’adhésion au syndicat professionnel des entreprises du paysage. Elle engage l’entreprise vis-à-vis de la profession, mais ce n’est pas une qualification contrôlée.
+À lire aussi
+Terrasse : prix au m², démarches et TVA
+Prix selon le matériau, plain-pied ou surélevée, déclaration et impôts.
+Clôture et portail : prix, règles et démarches
+Prix au mètre, déclaration en mairie, règles de hauteur et de voisinage.
+Piscinistes labellisés
+Les piscinistes titulaires d’un label de la FPP dans le 44 et le 85.
+Taxe d’aménagement : le taux de votre commune
+Les taux 2026 des 460 communes du 44 et du 85 et un calculateur.
+AB
+Aymen B. — J’écris ce guide à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Je ne suis pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. Ma méthode .
+Sources consultées
+QualiPaysage — qualification des entreprises du paysage
+Adhérent Unep – Les Entreprises du Paysage — Les Entreprises du Paysage
+QualiPaysage — rechercher une entreprise
+Unep — annuaire des entreprises du paysage
