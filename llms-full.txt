@@ -234,7 +234,7 @@ Abri NF P90-309 Rendre le bassin inaccessible
 Les spas et jacuzzis extérieurs sont concernés ; les piscines intérieures, gonflables ou démontables ne le sont pas. Le constructeur doit remettre une note technique au plus tard à la réception. Pour une location saisonnière, le dispositif doit fonctionner avant l’arrivée des locataires. Sanction : 45 000 € d’amende .
 3. La taxe d’aménagement
 Elle est due une fois, après les travaux. Pour une piscine, la base est forfaitaire : 251 € par m² de bassin en 2026 (258 € en 2024, 262 € en 2025), multipliée par la somme du taux communal (1 à 5 % en général, jusqu’à 20 % dans certains secteurs) et du taux départemental (2,5 % maximum).
-Exemple de calcul pour un 8 × 4 m (32 m²) 32 × 251 € = 8 032 € de base. Avec 5 % de taux communal et 2,5 % de taux départemental : 401,60 + 200,80 = 602,40 € . En Loire-Atlantique, la fiche 2022 de la DDTM mentionne aussi une redevance d’archéologie préventive de 0,4 % (≈ 32 € ici).
+Exemple de calcul pour un 8 × 4 m (32 m²) 32 × 251 € = 8 032 € de base. Avec 5 % de taux communal et 2,5 % de taux départemental : 401,60 + 200,80 = 602,40 € . En Loire-Atlantique, la fiche 2022 de la DDTM mentionne aussi une redevance d’archéologie préventive, de 0,68 % en 2026 (≈ 55 € ici).
 La déclaration se fait dans les 90 jours suivant l’achèvement, dans l’espace « Biens immobiliers » d’impots.gouv. En dessous de 1 500 €, la taxe est demandée en une seule fois. Montant exact : simulateur officiel .
 4. La déclaration aux impôts locaux
 Une piscine fixe augmente la valeur locative , donc la taxe foncière (et la taxe d’habitation sur une résidence secondaire).
@@ -369,7 +369,7 @@ Déclaration préalable : en secteur protégé, dans un secteur délimité par l
 Haie : 2 m de haut maximum si elle est plantée à 0,5 m de la limite.
 Clôture mitoyenne : sur la limite avec l’accord du voisin, frais partagés par accord.
 Respecter le règlement de lotissement ou de copropriété.
-Ne pas bloquer une servitude de passage ni l’écoulement des eaux de pluie. Recul de 6 m d’un cours d’eau, de 3 m du domaine public maritime.
+Ne pas bloquer une servitude de passage ni l’écoulement des eaux de pluie. Le long d’un cours d’eau ou du littoral, des servitudes de passage (entretien des berges, sentier du littoral) peuvent interdire de clore sur quelques mètres : renseignez-vous en mairie.
 TVA et garanties
 Maison neuve ? Voir par quoi commencer . TVA à 10 % pour une clôture (hors haie vive) et la pose d’un portail sur une maison de plus de 2 ans. Le portail motorisé relève de la garantie biennale (2 ans), selon une décision de cour d’appel de 2018.
 
@@ -642,7 +642,7 @@ Conseil pratique Si vous faites construire cet hiver, prévoyez le remplissage a
 Urbanisme : le PLUm
 La deuxième modification du PLU métropolitain a été votée le 7 février 2025. Elle ajuste le coefficient de biotope par surface et crée une obligation de plantation en pleine terre, deux règles qui peuvent peser sur une grande terrasse, une piscine ou une véranda. Les distances aux limites relèvent du règlement de zone. Utilisez le simulateur de formalités pour la démarche, puis vérifiez le règlement de votre zone.
 Taxe d’aménagement
-La part départementale de Loire-Atlantique était de 2,5 % dans la fiche 2022 de la DDTM, avec une redevance d’archéologie préventive de 0,4 %. Le taux communal varie selon la commune : le simulateur officiel donne le montant exact.
+La part départementale de Loire-Atlantique était de 2,5 % dans la fiche 2022 de la DDTM, avec une redevance d’archéologie préventive de 0,68 % en 2026. Le taux communal varie selon la commune : le simulateur officiel donne le montant exact.
 Piscines : les tendances locales
 Sur un annuaire privé de piscinistes, les demandes de devis de 2021 en Loire-Atlantique portaient à 37 % sur des piscines coque et à 28 % sur du béton. Ce sont des demandes, pas des piscines construites, mais elles montrent la place de la coque dans le département.
 
@@ -669,7 +669,7 @@ Avant tout remplissage, vérifiez votre adresse sur VigiEau .
 Les tendances
 Sur un annuaire privé, les demandes de devis vendéennes de 2021 portaient à 40,3 % sur des coques et à 24,2 % sur du béton, et à 73,6 % sur des piscines enterrées. Ces chiffres décrivent des demandes, pas le parc construit.
 À noter
-Le taux départemental de taxe d’aménagement de la Vendée n’a pas pu être vérifié pour 2026 : le simulateur officiel donne le montant exact pour votre commune.
+Le taux départemental de taxe d’aménagement de la Vendée est passé de 1,5 % à 2,5 % au 1er janvier 2026 ; le simulateur officiel donne le montant exact pour votre commune.
 
 Q : Pourquoi la Vendée est-elle citée pour les piscines non déclarées ?
 R : Elle faisait partie des 9 départements pilotes de la détection par photos aériennes en 2022 : 939 piscines y ont été détectées et imposées. Le dispositif couvre toute la métropole depuis 2023.
