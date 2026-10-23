@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" role="img" aria-labelledby="t d">
+<defs><clipPath id="c"><rect width="720" height="360" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<title id="t">Piscine, pergola et terrasse autour d'une maison</title>
+<desc id="d">Illustration d'un jardin avec une maison, une pergola bioclimatique, une terrasse en bois et une piscine enterrée.</desc>
+<rect width="720" height="360" rx="18" fill="#eaf6fb"/>
+<circle cx="640" cy="64" r="30" fill="#ffd36b"/>
+<rect y="236" width="720" height="124" fill="#a9d8a4"/><path d="M0 236 Q360 214 720 236 L720 250 L0 250 Z" fill="#9bcf9f"/>
+<g transform="translate(40 100)"><path d="M0 70 L95 0 L190 70 Z" fill="#0e7c86"/><rect x="14" y="70" width="162" height="76" fill="#fff" stroke="#0e7c86" stroke-width="3"/><rect x="34" y="90" width="40" height="30" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/><rect x="110" y="96" width="44" height="50" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/></g>
+<g transform="translate(236 132)"><rect x="0" y="0" width="150" height="10" fill="#3d525c"/><rect x="8" y="10" width="134" height="4" fill="#61747d"/><rect x="4" y="10" width="8" height="104" fill="#3d525c"/><rect x="138" y="10" width="8" height="104" fill="#3d525c"/><rect x="40" y="70" width="70" height="8" fill="#c48a52"/><rect x="48" y="78" width="6" height="30" fill="#a8743f"/><rect x="96" y="78" width="6" height="30" fill="#a8743f"/></g>
+<g transform="translate(200 246)"><path d="M0 0 H230 L250 30 H-20 Z" fill="#d8a46a"/><g stroke="#b7834c" stroke-width="2"><line x1="40" y1="0" x2="34" y2="30"/><line x1="90" y1="0" x2="88" y2="30"/><line x1="140" y1="0" x2="142" y2="30"/><line x1="190" y1="0" x2="196" y2="30"/></g></g>
+<g transform="translate(470 254)"><rect width="200" height="64" rx="10" fill="#fff"/><rect x="8" y="8" width="184" height="48" rx="7" fill="#5ec8e5"/><path d="M20 30 q14 -8 28 0 t28 0 t28 0 t28 0 t28 0" stroke="#bfefff" stroke-width="3" fill="none"/></g>
+<g fill="#5aa65f"><circle cx="660" cy="220" r="22"/><circle cx="690" cy="232" r="16"/></g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#13232b" text-anchor="middle">
+ <rect x="252" y="96" width="118" height="26" rx="13" fill="#fff"/><text x="311" y="114">Pergola</text>
+ <rect x="266" y="290" width="104" height="26" rx="13" fill="#fff"/><text x="318" y="308">Terrasse</text>
+ <rect x="520" y="216" width="100" height="26" rx="13" fill="#fff"/><text x="570" y="234">Piscine</text>
+</g>
+</g>
+</svg>

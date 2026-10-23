@@ -1,0 +1,50 @@
+name: Illustrations des pages (images avec alt)
+# Guide Google IA (juillet 2026) : images utiles et pertinentes, avec un texte alternatif.
+# Ajoute des illustrations SVG claires et les insere dans les pages. Idempotent (une page deja illustree est ignoree).
+# Se lance seul au push sur la branche images-ia ; ne pousse jamais sur main.
+on:
+  workflow_dispatch:
+  push:
+    branches: [images-ia]
+
+permissions:
+  contents: write
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Images et insertion
+        run: |
+          python3 - <<'PY'
+          import base64, json, pathlib
+          cfg = json.loads(base64.b64decode("eyJpbWdkaXIiOiAiaW1nIiwgImZpbGVzIjogeyJwcm9qZXQtZXh0ZXJpZXVyLnN2ZyI6ICJQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhacFpYZENiM2c5SWpBZ01DQTNNakFnTXpZd0lpQjNhV1IwYUQwaU56SXdJaUJvWldsbmFIUTlJak0yTUNJZ2NtOXNaVDBpYVcxbklpQmhjbWxoTFd4aFltVnNiR1ZrWW5rOUluUWdaQ0krQ2p4a1pXWnpQanhqYkdsd1VHRjBhQ0JwWkQwaVl5SStQSEpsWTNRZ2QybGtkR2c5SWpjeU1DSWdhR1ZwWjJoMFBTSXpOakFpSUhKNFBTSXhPQ0l2UGp3dlkyeHBjRkJoZEdnK1BDOWtaV1p6UGdvOFp5QmpiR2x3TFhCaGRHZzlJblZ5YkNnall5a2lQZ284ZEdsMGJHVWdhV1E5SW5RaVBsQnBjMk5wYm1Vc0lIQmxjbWR2YkdFZ1pYUWdkR1Z5Y21GemMyVWdZWFYwYjNWeUlHUW5kVzVsSUcxaGFYTnZiand2ZEdsMGJHVStDanhrWlhOaklHbGtQU0prSWo1SmJHeDFjM1J5WVhScGIyNGdaQ2QxYmlCcVlYSmthVzRnWVhabFl5QjFibVVnYldGcGMyOXVMQ0IxYm1VZ2NHVnlaMjlzWVNCaWFXOWpiR2x0WVhScGNYVmxMQ0IxYm1VZ2RHVnljbUZ6YzJVZ1pXNGdZbTlwY3lCbGRDQjFibVVnY0dselkybHVaU0JsYm5SbGNuTERxV1V1UEM5a1pYTmpQZ284Y21WamRDQjNhV1IwYUQwaU56SXdJaUJvWldsbmFIUTlJak0yTUNJZ2NuZzlJakU0SWlCbWFXeHNQU0lqWldGbU5tWmlJaTgrQ2p4amFYSmpiR1VnWTNnOUlqWTBNQ0lnWTNrOUlqWTBJaUJ5UFNJek1DSWdabWxzYkQwaUkyWm1aRE0yWWlJdlBnbzhjbVZqZENCNVBTSXlNellpSUhkcFpIUm9QU0kzTWpBaUlHaGxhV2RvZEQwaU1USTBJaUJtYVd4c1BTSWpZVGxrT0dFMElpOCtQSEJoZEdnZ1pEMGlUVEFnTWpNMklGRXpOakFnTWpFMElEY3lNQ0F5TXpZZ1REY3lNQ0F5TlRBZ1REQWdNalV3SUZvaUlHWnBiR3c5SWlNNVltTm1PV1lpTHo0S1BHY2dkSEpoYm5ObWIzSnRQU0owY21GdWMyeGhkR1VvTkRBZ01UQXdLU0krUEhCaGRHZ2daRDBpVFRBZ056QWdURGsxSURBZ1RERTVNQ0EzTUNCYUlpQm1hV3hzUFNJak1HVTNZemcySWk4K1BISmxZM1FnZUQwaU1UUWlJSGs5SWpjd0lpQjNhV1IwYUQwaU1UWXlJaUJvWldsbmFIUTlJamMySWlCbWFXeHNQU0lqWm1abUlpQnpkSEp2YTJVOUlpTXdaVGRqT0RZaUlITjBjbTlyWlMxM2FXUjBhRDBpTXlJdlBqeHlaV04wSUhnOUlqTTBJaUI1UFNJNU1DSWdkMmxrZEdnOUlqUXdJaUJvWldsbmFIUTlJak13SWlCbWFXeHNQU0lqWlRabU5tWTJJaUJ6ZEhKdmEyVTlJaU13WlRkak9EWWlJSE4wY205clpTMTNhV1IwYUQwaU1pSXZQanh5WldOMElIZzlJakV4TUNJZ2VUMGlPVFlpSUhkcFpIUm9QU0kwTkNJZ2FHVnBaMmgwUFNJMU1DSWdabWxzYkQwaUkyVTJaalptTmlJZ2MzUnliMnRsUFNJak1HVTNZemcySWlCemRISnZhMlV0ZDJsa2RHZzlJaklpTHo0OEwyYytDanhuSUhSeVlXNXpabTl5YlQwaWRISmhibk5zWVhSbEtESXpOaUF4TXpJcElqNDhjbVZqZENCNFBTSXdJaUI1UFNJd0lpQjNhV1IwYUQwaU1UVXdJaUJvWldsbmFIUTlJakV3SWlCbWFXeHNQU0lqTTJRMU1qVmpJaTgrUEhKbFkzUWdlRDBpT0NJZ2VUMGlNVEFpSUhkcFpIUm9QU0l4TXpRaUlHaGxhV2RvZEQwaU5DSWdabWxzYkQwaUl6WXhOelEzWkNJdlBqeHlaV04wSUhnOUlqUWlJSGs5SWpFd0lpQjNhV1IwYUQwaU9DSWdhR1ZwWjJoMFBTSXhNRFFpSUdacGJHdzlJaU16WkRVeU5XTWlMejQ4Y21WamRDQjRQU0l4TXpnaUlIazlJakV3SWlCM2FXUjBhRDBpT0NJZ2FHVnBaMmgwUFNJeE1EUWlJR1pwYkd3OUlpTXpaRFV5TldNaUx6NDhjbVZqZENCNFBTSTBNQ0lnZVQwaU56QWlJSGRwWkhSb1BTSTNNQ0lnYUdWcFoyaDBQU0k0SWlCbWFXeHNQU0lqWXpRNFlUVXlJaTgrUEhKbFkzUWdlRDBpTkRnaUlIazlJamM0SWlCM2FXUjBhRDBpTmlJZ2FHVnBaMmgwUFNJek1DSWdabWxzYkQwaUkyRTROelF6WmlJdlBqeHlaV04wSUhnOUlqazJJaUI1UFNJM09DSWdkMmxrZEdnOUlqWWlJR2hsYVdkb2REMGlNekFpSUdacGJHdzlJaU5oT0RjME0yWWlMejQ4TDJjK0NqeG5JSFJ5WVc1elptOXliVDBpZEhKaGJuTnNZWFJsS0RJd01DQXlORFlwSWo0OGNHRjBhQ0JrUFNKTk1DQXdJRWd5TXpBZ1RESTFNQ0F6TUNCSUxUSXdJRm9pSUdacGJHdzlJaU5rT0dFME5tRWlMejQ4WnlCemRISnZhMlU5SWlOaU56Z3pOR01pSUhOMGNtOXJaUzEzYVdSMGFEMGlNaUkrUEd4cGJtVWdlREU5SWpRd0lpQjVNVDBpTUNJZ2VESTlJak0wSWlCNU1qMGlNekFpTHo0OGJHbHVaU0I0TVQwaU9UQWlJSGt4UFNJd0lpQjRNajBpT0RnaUlIa3lQU0l6TUNJdlBqeHNhVzVsSUhneFBTSXhOREFpSUhreFBTSXdJaUI0TWowaU1UUXlJaUI1TWowaU16QWlMejQ4YkdsdVpTQjRNVDBpTVRrd0lpQjVNVDBpTUNJZ2VESTlJakU1TmlJZ2VUSTlJak13SWk4K1BDOW5Qand2Wno0S1BHY2dkSEpoYm5ObWIzSnRQU0owY21GdWMyeGhkR1VvTkRjd0lESTFOQ2tpUGp4eVpXTjBJSGRwWkhSb1BTSXlNREFpSUdobGFXZG9kRDBpTmpRaUlISjRQU0l4TUNJZ1ptbHNiRDBpSTJabVppSXZQanh5WldOMElIZzlJamdpSUhrOUlqZ2lJSGRwWkhSb1BTSXhPRFFpSUdobGFXZG9kRDBpTkRnaUlISjRQU0kzSWlCbWFXeHNQU0lqTldWak9HVTFJaTgrUEhCaGRHZ2daRDBpVFRJd0lETXdJSEV4TkNBdE9DQXlPQ0F3SUhReU9DQXdJSFF5T0NBd0lIUXlPQ0F3SUhReU9DQXdJaUJ6ZEhKdmEyVTlJaU5pWm1WbVptWWlJSE4wY205clpTMTNhV1IwYUQwaU15SWdabWxzYkQwaWJtOXVaU0l2UGp3dlp6NEtQR2NnWm1sc2JEMGlJelZoWVRZMVppSStQR05wY21Oc1pTQmplRDBpTmpZd0lpQmplVDBpTWpJd0lpQnlQU0l5TWlJdlBqeGphWEpqYkdVZ1kzZzlJalk1TUNJZ1kzazlJakl6TWlJZ2NqMGlNVFlpTHo0OEwyYytDanhuSUdadmJuUXRabUZ0YVd4NVBTSkJjbWxoYkN4SVpXeDJaWFJwWTJFc2MyRnVjeTF6WlhKcFppSWdabTl1ZEMxemFYcGxQU0l4TkNJZ1ptOXVkQzEzWldsbmFIUTlJamN3TUNJZ1ptbHNiRDBpSXpFek1qTXlZaUlnZEdWNGRDMWhibU5vYjNJOUltMXBaR1JzWlNJK0NpQThjbVZqZENCNFBTSXlOVElpSUhrOUlqazJJaUIzYVdSMGFEMGlNVEU0SWlCb1pXbG5hSFE5SWpJMklpQnllRDBpTVRNaUlHWnBiR3c5SWlObVptWWlMejQ4ZEdWNGRDQjRQU0l6TVRFaUlIazlJakV4TkNJK1VHVnlaMjlzWVR3dmRHVjRkRDRLSUR4eVpXTjBJSGc5SWpJMk5pSWdlVDBpTWprd0lpQjNhV1IwYUQwaU1UQTBJaUJvWldsbmFIUTlJakkySWlCeWVEMGlNVE1pSUdacGJHdzlJaU5tWm1ZaUx6NDhkR1Y0ZENCNFBTSXpNVGdpSUhrOUlqTXdPQ0krVkdWeWNtRnpjMlU4TDNSbGVIUStDaUE4Y21WamRDQjRQU0kxTWpBaUlIazlJakl4TmlJZ2QybGtkR2c5SWpFd01DSWdhR1ZwWjJoMFBTSXlOaUlnY25nOUlqRXpJaUJtYVd4c1BTSWpabVptSWk4K1BIUmxlSFFnZUQwaU5UY3dJaUI1UFNJeU16UWlQbEJwYzJOcGJtVThMM1JsZUhRK0Nqd3ZaejRLUEM5blBnbzhMM04yWno0SyJ9LCAiaXRlbXMiOiBbeyJwYWdlIjogImluZGV4Lmh0bWwiLCAibW9kZSI6ICJhZnRlciIsICJtYXJrZXIiOiAiPC9oMj4iLCAic3RhcnQiOiAiaWQ9XCJxdWVsLWVzdC12b3RyZS1wcm9qZXRcIiIsICJmaWciOiAiPGZpZ3VyZSBjbGFzcz1cImlsbFwiPjxpbWcgc3JjPVwiL2ltZy9wcm9qZXQtZXh0ZXJpZXVyLnN2Z1wiIGFsdD1cIkphcmRpbiBhdmVjIHVuZSBtYWlzb24sIHVuZSBwZXJnb2xhLCB1bmUgdGVycmFzc2UgZW4gYm9pcyBldCB1bmUgcGlzY2luZSBlbnRlcnJcdTAwZTllXCIgd2lkdGg9XCI3MjBcIiBoZWlnaHQ9XCIzNjBcIiBsb2FkaW5nPVwibGF6eVwiIGRlY29kaW5nPVwiYXN5bmNcIj48L2ZpZ3VyZT4iLCAic3JjIjogIi9pbWcvcHJvamV0LWV4dGVyaWV1ci5zdmcifV0sICJjc3MiOiAic3R5bGUuY3NzIn0="))
+          d = pathlib.Path(cfg["imgdir"]); d.mkdir(parents=True, exist_ok=True)
+          for n, b in cfg["files"].items():
+              (d / n).write_bytes(base64.b64decode(b)); print("image :", d / n)
+          for it in cfg["items"]:
+              p = pathlib.Path(it["page"]); t = p.read_text(encoding="utf-8")
+              if it["src"] in t:
+                  print("deja present :", p); continue
+              s = t.find(it["start"]) if it["start"] else 0
+              if s < 0: raise SystemExit("repere de depart introuvable : %s" % p)
+              i = t.find(it["marker"], s)
+              if i < 0: raise SystemExit("repere introuvable : %s" % p)
+              if it["mode"] == "after": i += len(it["marker"])
+              t = t[:i] + "\n" + it["fig"] + "\n" + t[i:]
+              p.write_text(t, encoding="utf-8"); print("page :", p)
+          if cfg["css"]:
+              c = pathlib.Path(cfg["css"]); ct = c.read_text(encoding="utf-8")
+              if ".ill{" not in ct:
+                  c.write_text(ct.rstrip() + "\n.ill{margin:28px 0}.ill img{display:block;width:100%;height:auto;border-radius:14px}\n", encoding="utf-8"); print("css :", c)
+          PY
+      - name: Commit sur la branche (jamais sur main)
+        if: github.ref == 'refs/heads/images-ia'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "Rien a changer" && exit 0
+          git commit -m "Illustrations claires avec texte alternatif (guide Google IA)"
+          git push
