@@ -284,3 +284,4 @@ input[type=text],input[type=email],input[type=tel],textarea{font:inherit;padding
 .cal-p1{left:0;width:33.3%}.cal-p2{left:66.6%;width:33.4%}.cal-p3{left:33.3%;width:41.7%}
 .cal-t1{left:0;width:16.6%}.cal-t2{left:83.3%;width:16.7%}.cal-t3{left:41.6%;width:25%;opacity:.85}
 .cal-g1{left:8.3%;width:16.7%}.cal-g2{left:33.3%;width:41.7%;opacity:.85}
+.ill{margin:28px 0}.ill img{display:block;width:100%;height:auto;border-radius:14px}
