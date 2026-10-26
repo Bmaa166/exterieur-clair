@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" role="img" aria-labelledby="t d">
+<title id="t">Véranda : prix au m² et démarches (2026)</title>
+<desc id="d">Prix TTC au m², pose comprise : PVC 700 à 1 800 €, aluminium 1 200 à 2 300 €, bois 1 500 à 3 200 €. En zone U d’un PLU : déclaration préalable jusqu’à 40 m², permis de construire au-delà. Hors zone U : déclaration préalable jusqu’à 20 m², permis au-delà. Instruction : 1 mois pour une déclaration, 2 mois pour un permis. Taxe d’aménagement due, déclaration aux impôts dans les 90 jours.</desc>
+<defs><clipPath id="c"><rect width="720" height="400" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="400" fill="#f4f9fd"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#13232b">Véranda : prix au m² et démarches (2026)</text>
+<text x="30" y="66" font-size="13" fill="#61747d">Prix TTC au m², pose comprise</text>
+<line x1="154" y1="76" x2="154" y2="198" stroke="#d6e2e6" stroke-width="2"/>
+<text x="140" y="102" font-size="14" fill="#13232b" text-anchor="end">PVC</text>
+<rect x="269.1" y="84" width="180.8" height="26" rx="13" fill="#e3f1fb" stroke="#0a74c4" stroke-width="2"/>
+<text x="359.5" y="102" font-size="13" font-weight="700" fill="#0a74c4" text-anchor="middle">700 à 1 800 €</text>
+<text x="140" y="142" font-size="14" fill="#13232b" text-anchor="end">Aluminium</text>
+<rect x="351.2" y="124" width="180.8" height="26" rx="13" fill="#e3f1fb" stroke="#0a74c4" stroke-width="2"/>
+<text x="441.7" y="142" font-size="13" font-weight="700" fill="#0a74c4" text-anchor="middle">1 200 à 2 300 €</text>
+<text x="140" y="182" font-size="14" fill="#13232b" text-anchor="end">Bois</text>
+<rect x="400.6" y="164" width="279.4" height="26" rx="13" fill="#e3f1fb" stroke="#0a74c4" stroke-width="2"/>
+<text x="540.3" y="182" font-size="13" font-weight="700" fill="#0a74c4" text-anchor="middle">1 500 à 3 200 €</text>
+<text x="30" y="222" font-size="15" font-weight="700" fill="#13232b">Démarches : une véranda est une extension</text>
+<rect x="24" y="234" width="330" height="88" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="42" y="260" font-size="14" font-weight="700" fill="#0e7c86">En zone U d’un PLU</text>
+<text x="42" y="284" font-size="13.5" fill="#3d525c">40 m² ou moins : déclaration préalable</text>
+<text x="42" y="306" font-size="13.5" fill="#3d525c">Plus de 40 m² : permis de construire</text>
+<rect x="366" y="234" width="330" height="88" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="384" y="260" font-size="14" font-weight="700" fill="#0e7c86">Hors zone U</text>
+<text x="384" y="284" font-size="13.5" fill="#3d525c">20 m² ou moins : déclaration préalable</text>
+<text x="384" y="306" font-size="13.5" fill="#3d525c">Plus de 20 m² : permis de construire</text>
+<rect x="24" y="334" width="672" height="54" rx="12" fill="#e6f6f6"/>
+<text x="44" y="356" font-size="13.5" fill="#13232b">Instruction : 1 mois pour une déclaration, 2 mois pour un permis</text>
+<text x="44" y="376" font-size="13.5" fill="#3d525c">Taxe d’aménagement due · déclaration aux impôts dans les 90 jours</text>
+</g>
+</svg>

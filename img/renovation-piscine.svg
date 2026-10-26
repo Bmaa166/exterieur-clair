@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 390" width="720" height="390" role="img" aria-labelledby="t d">
+<title id="t">Rénover sa piscine : repères et prix des travaux</title>
+<desc id="d">Un liner dure en moyenne 10 à 15 ans ; environ 30 % du parc de piscines enterrées est déjà rénové (FPP) ; sans dispositif de sécurité normalisé, l’amende atteint 45 000 €. Prix indicatifs : changer le liner d’un 8 × 4 m environ 3 700 à 5 400 € pose comprise, pose du liner 500 à 2 200 €, dépose de l’ancien liner 1 000 à 2 000 €, pompe à chaleur 2 500 à 6 000 €, volet roulant automatique 3 000 à 8 000 €, abri 5 000 à 25 000 €. Le bon moment : l’automne et l’hiver.</desc>
+<defs><clipPath id="c"><rect width="720" height="390" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="390" fill="#f4f9fd"/>
+<text x="30" y="42" font-size="21" font-weight="700" fill="#13232b">Rénover sa piscine : repères et prix des travaux</text>
+<rect x="24" y="58" width="212" height="74" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="130" y="90" font-size="20" font-weight="700" fill="#0a74c4" text-anchor="middle">10 à 15 ans</text>
+<text x="130" y="113" font-size="13" fill="#3d525c" text-anchor="middle">durée de vie moyenne d’un liner</text>
+<rect x="254" y="58" width="212" height="74" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="360" y="90" font-size="20" font-weight="700" fill="#0a74c4" text-anchor="middle">≈ 30 %</text>
+<text x="360" y="113" font-size="13" fill="#3d525c" text-anchor="middle">du parc déjà rénové (FPP)</text>
+<rect x="484" y="58" width="212" height="74" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="590" y="90" font-size="20" font-weight="700" fill="#0a74c4" text-anchor="middle">45 000 €</text>
+<text x="590" y="113" font-size="13" fill="#3d525c" text-anchor="middle">d’amende si pas en règle</text>
+<rect x="24" y="148" width="330" height="58" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="42" y="171" font-size="13.5" fill="#3d525c">Changer le liner (8 × 4 m, pose comprise)</text>
+<text x="42" y="193" font-size="16" font-weight="700" fill="#0a74c4">≈ 3 700 à 5 400 €</text>
+<rect x="366" y="148" width="330" height="58" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="384" y="171" font-size="13.5" fill="#3d525c">Pose du liner</text>
+<text x="384" y="193" font-size="16" font-weight="700" fill="#0a74c4">500 à 2 200 €</text>
+<rect x="24" y="216" width="330" height="58" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="42" y="239" font-size="13.5" fill="#3d525c">Dépose de l’ancien liner</text>
+<text x="42" y="261" font-size="16" font-weight="700" fill="#0a74c4">1 000 à 2 000 €</text>
+<rect x="366" y="216" width="330" height="58" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="384" y="239" font-size="13.5" fill="#3d525c">Pompe à chaleur</text>
+<text x="384" y="261" font-size="16" font-weight="700" fill="#0a74c4">2 500 à 6 000 €</text>
+<rect x="24" y="284" width="330" height="58" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="42" y="307" font-size="13.5" fill="#3d525c">Volet roulant automatique</text>
+<text x="42" y="329" font-size="16" font-weight="700" fill="#0a74c4">3 000 à 8 000 €</text>
+<rect x="366" y="284" width="330" height="58" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="384" y="307" font-size="13.5" fill="#3d525c">Abri</text>
+<text x="384" y="329" font-size="16" font-weight="700" fill="#0a74c4">5 000 à 25 000 €</text>
+<text x="30" y="372" font-size="13.5" font-weight="700" fill="#0e7c86">Bon moment : l’automne et l’hiver, hors restrictions d’eau estivales</text>
+</g>
+</svg>

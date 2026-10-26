@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" role="img" aria-labelledby="t d">
+<title id="t">Abri de piscine : la formalité selon la hauteur</title>
+<desc id="d">Pour un bassin de 10 m² ou moins : aucune formalité, que l’abri fasse 1,80 m ou moins ou plus de 1,80 m (déclaration en secteur protégé). De 10 à 100 m² : déclaration préalable avec un abri de 1,80 m ou moins, permis de construire au-delà de 1,80 m. Plus de 100 m² : permis de construire dans tous les cas. Un abri coûte environ 5 000 à 25 000 € pour un bassin 8 × 4 m ; conforme à la norme NF P90-309, il sert de dispositif de sécurité ; il réduit la consommation d’eau de 65 à 75 % sur la saison selon la FPP.</desc>
+<defs><clipPath id="c"><rect width="720" height="380" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="380" fill="#f4f9fd"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#13232b">Abri de piscine : la formalité selon la hauteur</text>
+<text x="335" y="80" font-size="14" font-weight="700" fill="#13232b" text-anchor="middle">Abri de 1,80 m ou moins</text>
+<text x="573" y="80" font-size="14" font-weight="700" fill="#13232b" text-anchor="middle">Abri de plus de 1,80 m</text>
+<text x="30" y="126" font-size="14" fill="#13232b">Bassin de 10 m² ou moins</text>
+<rect x="218" y="94" width="234" height="52" rx="12" fill="#e8f6ee" stroke="#1f8a4c" stroke-width="2"/>
+<text x="335" y="117" font-size="14.5" font-weight="700" fill="#1f8a4c" text-anchor="middle">Aucune formalité</text>
+<text x="335" y="136" font-size="12.5" fill="#3d525c" text-anchor="middle">(déclaration en secteur protégé)</text>
+<rect x="456" y="94" width="234" height="52" rx="12" fill="#e8f6ee" stroke="#1f8a4c" stroke-width="2"/>
+<text x="573" y="117" font-size="14.5" font-weight="700" fill="#1f8a4c" text-anchor="middle">Aucune formalité</text>
+<text x="573" y="136" font-size="12.5" fill="#3d525c" text-anchor="middle">(déclaration en secteur protégé)</text>
+<text x="30" y="186" font-size="14" fill="#13232b">De 10 à 100 m²</text>
+<rect x="218" y="154" width="234" height="52" rx="12" fill="#e3f1fb" stroke="#0a74c4" stroke-width="2"/>
+<text x="335" y="185" font-size="14.5" font-weight="700" fill="#0a74c4" text-anchor="middle">Déclaration préalable</text>
+<rect x="456" y="154" width="234" height="52" rx="12" fill="#fff4e3" stroke="#b5600b" stroke-width="2"/>
+<text x="573" y="185" font-size="14.5" font-weight="700" fill="#b5600b" text-anchor="middle">Permis de construire</text>
+<text x="30" y="246" font-size="14" fill="#13232b">Plus de 100 m²</text>
+<rect x="218" y="214" width="234" height="52" rx="12" fill="#fff4e3" stroke="#b5600b" stroke-width="2"/>
+<text x="335" y="245" font-size="14.5" font-weight="700" fill="#b5600b" text-anchor="middle">Permis de construire</text>
+<rect x="456" y="214" width="234" height="52" rx="12" fill="#fff4e3" stroke="#b5600b" stroke-width="2"/>
+<text x="573" y="245" font-size="14.5" font-weight="700" fill="#b5600b" text-anchor="middle">Permis de construire</text>
+<rect x="24" y="290" width="212" height="74" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="130" y="322" font-size="19" font-weight="700" fill="#0a74c4" text-anchor="middle">5 000 à 25 000 €</text>
+<text x="130" y="345" font-size="13" fill="#3d525c" text-anchor="middle">pour un bassin 8 × 4 m</text>
+<rect x="254" y="290" width="212" height="74" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="360" y="322" font-size="19" font-weight="700" fill="#0a74c4" text-anchor="middle">NF P90-309</text>
+<text x="360" y="345" font-size="13" fill="#3d525c" text-anchor="middle">norme du dispositif de sécurité</text>
+<rect x="484" y="290" width="212" height="74" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="590" y="322" font-size="19" font-weight="700" fill="#0a74c4" text-anchor="middle">65 à 75 %</text>
+<text x="590" y="345" font-size="13" fill="#3d525c" text-anchor="middle">d’eau consommée en moins</text>
+</g>
+</svg>

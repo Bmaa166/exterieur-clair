@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" role="img" aria-labelledby="t d">
+<title id="t">Piscine enterrée : les quatre démarches</title>
+<desc id="d">1. Autorisation d’urbanisme : déclaration préalable de 10 à 100 m² de bassin, permis au-delà ou avec un abri de plus de 1,80 m. 2. Sécurité obligatoire : barrière, alarme, couverture ou abri, sinon 45 000 € d’amende. 3. Taxe d’aménagement : 251 € par m² de bassin en 2026, multipliés par les taux locaux. 4. Impôts locaux : déclaration dans les 90 jours, exonération de 2 ans si elle est faite à temps. Exemple pour un 8 × 4 m (32 m²) : 32 × 251 € = 8 032 € de base, soit 602,40 € avec 5 % de taux communal et 2,5 % de taux départemental.</desc>
+<defs><clipPath id="c"><rect width="720" height="400" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="400" fill="#f4f9fd"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#13232b">Piscine enterrée : les quatre démarches</text>
+<rect x="24" y="60" width="330" height="114" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<circle cx="60" cy="96" r="19" fill="#fff" stroke="#0a74c4" stroke-width="3"/><text x="60" y="102.84" font-size="19" font-weight="700" fill="#0a74c4" text-anchor="middle">1</text>
+<text x="90" y="102" font-size="16" font-weight="700" fill="#13232b">Autorisation d’urbanisme</text>
+<text x="44" y="136" font-size="13.5" fill="#3d525c">Déclaration préalable de 10 à 100 m²</text>
+<text x="44" y="158" font-size="13.5" fill="#3d525c">Permis au-delà ou abri de plus de 1,80 m</text>
+<rect x="366" y="60" width="330" height="114" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<circle cx="402" cy="96" r="19" fill="#fff" stroke="#0a74c4" stroke-width="3"/><text x="402" y="102.84" font-size="19" font-weight="700" fill="#0a74c4" text-anchor="middle">2</text>
+<text x="432" y="102" font-size="16" font-weight="700" fill="#13232b">Sécurité obligatoire</text>
+<text x="386" y="136" font-size="13.5" fill="#3d525c">Barrière, alarme, couverture ou abri</text>
+<text x="386" y="158" font-size="13.5" fill="#3d525c">Sinon : 45 000 € d’amende</text>
+<rect x="24" y="186" width="330" height="114" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<circle cx="60" cy="222" r="19" fill="#fff" stroke="#0a74c4" stroke-width="3"/><text x="60" y="228.84" font-size="19" font-weight="700" fill="#0a74c4" text-anchor="middle">3</text>
+<text x="90" y="228" font-size="16" font-weight="700" fill="#13232b">Taxe d’aménagement</text>
+<text x="44" y="262" font-size="13.5" fill="#3d525c">251 € par m² de bassin en 2026</text>
+<text x="44" y="284" font-size="13.5" fill="#3d525c">multipliés par les taux locaux</text>
+<rect x="366" y="186" width="330" height="114" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<circle cx="402" cy="222" r="19" fill="#fff" stroke="#0a74c4" stroke-width="3"/><text x="402" y="228.84" font-size="19" font-weight="700" fill="#0a74c4" text-anchor="middle">4</text>
+<text x="432" y="228" font-size="16" font-weight="700" fill="#13232b">Impôts locaux</text>
+<text x="386" y="262" font-size="13.5" fill="#3d525c">Déclaration dans les 90 jours</text>
+<text x="386" y="284" font-size="13.5" fill="#3d525c">Exonération de 2 ans si déclarée à temps</text>
+<rect x="24" y="322" width="672" height="64" rx="12" fill="#e6f6f6"/>
+<text x="44" y="347" font-size="14" font-weight="700" fill="#0e7c86">Exemple pour un 8 × 4 m (32 m²)</text>
+<text x="44" y="370" font-size="13.5" fill="#13232b">32 × 251 € = 8 032 € de base ; avec 5 % + 2,5 % de taux : 602,40 € de taxe</text>
+</g>
+</svg>
