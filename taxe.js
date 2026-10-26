@@ -42,7 +42,7 @@
     out.innerHTML = '<div class="small">Taxe d’aménagement estimée à ' + esc(c.n) + ' (' + c.d + ')</div><div class="big">' + fmt(partC + partD) + '</div>' +
       '<ul><li>Part communale ou intercommunale : ' + fmt(partC) + ' (' + l + ' × ' + pct(tc) + (exo ? ', exonérée à ' + exo + ' %' : '') + ')</li><li>Part départementale : ' + fmt(partD) + ' (taux de ' + pct(td) + ')</li>' +
       lines.map(function (x) { return '<li>' + x + '</li>'; }).join('') + '</ul>' +
-      '<p class="fine">Valeurs forfaitaires 2026 et délibérations publiées par la DGFiP (taux applicables au 1<sup>er</sup> janvier 2026). ' + (c.e ? 'Intercommunalité : ' + esc(c.e) + '. ' : '') + 'Le montant définitif est calculé par l’administration ; la redevance d’archéologie préventive (0,68 %) peut s’ajouter.</p>';
+      '<p class="fine">Valeurs forfaitaires 2026 et délibérations publiées par la DGFiP (taux applicables au 1<sup>er</sup> janvier 2026). ' + (c.e ? 'Intercommunalité : ' + esc(c.e) + '. ' : '') + 'Le montant définitif est calculé par l’administration ; la taxe d’archéologie préventive (0,40 %) peut s’ajouter.</p>';
   };
   Array.prototype.forEach.call(box.querySelectorAll('select,input'), function (el) { el.addEventListener('input', up); el.addEventListener('change', up); });
   up();
