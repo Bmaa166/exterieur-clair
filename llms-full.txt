@@ -454,7 +454,7 @@ R : Une rénovation qui ne change ni la taille du bassin ni sa couverture ne rel
 Q : Peut-on vider sa piscine pour la rénover l’été ?
 R : Pas toujours : en 2026, les arrêtés sécheresse de Loire-Atlantique et de Vendée ont interdit la vidange et le remplissage des piscines privées aux niveaux les plus élevés. Mieux vaut programmer la rénovation à l’automne ou en hiver.
 
-## Abri de piscine : prix, démarches et avantages
+## Abri de piscine : législation, démarches et prix
 URL : https://exterieur-clair.fr/abri-piscine
 
 Un abri prolonge la saison de baignade, réduit fortement l’évaporation et peut servir de dispositif de sécurité obligatoire. Mais sa hauteur change tout côté démarches.
@@ -473,6 +473,20 @@ Les avantages
 Sécurité : conforme à la norme NF P90-309, l’abri rend le bassin inaccessible aux enfants de moins de 5 ans et remplit l’obligation légale.
 Eau : la FPP indique une consommation réduite de 65 à 75 % sur la saison avec un abri (un autre chiffre qu’elle cite, d’une étude du CSTB, parle de 56 % d’évaporation évitée).
 Saison : une eau qui se réchauffe plus vite au printemps et se garde plus longtemps à l’automne.
+Législation de l’abri de piscine : ce que disent les textes et les juges
+Le tableau ci-dessus vient du code de l’urbanisme (articles R. 421-2, R. 421-9 et R. 421-1). Quatre points font souvent basculer un dossier, et ils sont tranchés par des textes officiels ou par des décisions de justice.
+La hauteur de 1,80 m se mesure depuis le sol, murs compris
+Sur un terrain en pente, la piscine repose souvent sur un mur de soutènement. Le ministère chargé du Logement a répondu en septembre 2025 que la hauteur de la couverture « doit donc être calculée à partir du sol, ce qui inclut les murs de soutien ». Dans le cas posé, un abri de moins de 1,80 m posé sur un mur de 60 cm atteignait environ 2,40 m : il fallait un permis de construire, pas une déclaration. La règle vaut pour une couverture fixe ou mobile, donc pour un abri télescopique.
+L’abri et le bassin forment un seul projet
+Le Conseil d’État juge que le bassin et sa margelle forment un ensemble indissociable (CE, 8 février 2006, n° 272188) : un projet ne se découpe pas en morceaux pour échapper à une formalité. Si vous ajoutez un abri à une piscine existante, appliquez le tableau ci-dessus à la surface du bassin et à la hauteur de l’abri, comme pour un projet neuf.
+Le règlement du PLU peut changer la donne
+Une piscine non couverte « est une construction qui ne peut être regardée comme un bâtiment » (CE, 7 avril 2011, n° 330306) : une règle du PLU qui vise les bâtiments ne s’y applique pas. Un abri, surtout un abri haut, est en revanche soumis aux règles de votre zone (hauteur, distance aux limites, aspect, couleur). Lisez le règlement écrit de votre zone au service urbanisme de la mairie avant de choisir le modèle.
+Un abri haut augmente la taxe d’aménagement
+Un abri bas ne change rien : seul le bassin est taxé, à 251 € par m² en 2026. Sous un abri clos et couvert de plus de 1,80 m, la DDTM de Loire-Atlantique précise qu’on taxe le bassin et, en plus, la surface taxable créée autour, c’est-à-dire les surfaces closes et couvertes de plus de 1,80 m de hauteur (892 € par m² en 2026 hors Île-de-France). Faites le calcul avec le calculateur de taxe d’aménagement, au vrai taux de votre commune.
+La garantie décennale dépend de la fixation
+La Cour de cassation a jugé qu’un abri monté sur des portiques à roulettes, retenu par des ancrages démontables, n’est ni un ouvrage ni un élément d’équipement indissociable : la garantie décennale ne s’applique pas (Cass. 3e civ., 30 mars 2011, n° 10-10.766). Un abri fixé sur de vraies fondations peut au contraire relever de la décennale. Demandez par écrit à l’installateur comment l’abri sera fixé et quelle assurance couvre la pose.
+La sécurité : un abri compte seulement s’il est fermé
+Une piscine enterrée doit être équipée d’un dispositif de sécurité normalisé : barrière, alarme, couverture ou abri. Le manquement est puni de 45 000 € d’amende (ANIL). L’abri ne remplit ce rôle que s’il est conforme à la norme NF P90-309 et refermé, verrouillé, après chaque baignade.
 Taxes et voisinage
 La taxe d’aménagement peut s’appliquer selon les cas, et l’abri peut augmenter la valeur locative, donc la taxe foncière : vérifiez avec le simulateur officiel .
 Un abri haut fait de l’ombre et bloque la vue : parlez-en à vos voisins en amont. Une installation non conforme ou contestée peut devoir être démontée.
@@ -485,6 +499,15 @@ R : Pour un bassin de 10 à 100 m², un abri de 1,80 m ou moins demande une déc
 
 Q : L’abri est-il garanti dix ans ?
 R : Cela dépend de la façon dont il est fixé au sol : la Cour de cassation a jugé en 2011 qu’un abri mobile n’est pas un ouvrage au sens de la garantie décennale. Lisez la garantie commerciale du fabricant.
+
+Q : Comment mesurer la hauteur d’un abri sur un terrain en pente ?
+R : Depuis le sol, murs de soutènement compris. Un abri de 1,70 m posé sur un mur de 60 cm dépasse 1,80 m : il demande un permis de construire si le bassin fait plus de 10 m² (réponse ministérielle publiée au JO Sénat le 11/09/2025).
+
+Q : Un abri de piscine bas paie-t-il la taxe d’aménagement ?
+R : Non : avec un abri de 1,80 m ou moins, seul le bassin est taxé (251 € par m² en 2026, multipliés par les taux locaux). Un abri haut, clos et couvert, ajoute la surface qu’il crée, taxée à 892 € par m² en 2026 hors Île-de-France.
+
+Q : Que risque-t-on avec un abri installé sans autorisation ?
+R : La mairie peut dresser un procès-verbal, mettre en demeure de régulariser avec une astreinte, et le juge peut ordonner la démolition. Un abri non déclaré pose aussi problème au moment de vendre la maison.
 
 ## Maison neuve : clôture, portail, terrasse, par quoi commencer ?
 URL : https://exterieur-clair.fr/maison-neuve-exterieurs
