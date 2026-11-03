@@ -705,15 +705,15 @@ URL : https://exterieur-clair.fr/a-propos
 
 Pourquoi ce guide
 Je m’appelle Aymen. Les prix d’une piscine, d’une pergola ou d’une véranda varient énormément d’un site à l’autre, et les règles (déclaration, taxes, TVA) sont souvent présentées de façon approximative ou datée. Ce guide rassemble ce qui est vérifiable aujourd’hui, avec un regard particulier sur Nantes, la Loire-Atlantique et la Vendée.
-Ma méthode
+La méthode
 Les règles viennent des fiches officielles (service-public, impots.gouv, economie.gouv, BOFiP, préfectures), avec leur date de vérification.
 Les prix sont croisés : une fourchette n’est présentée comme fiable que si plusieurs sources concordent. Sinon, je le signale (« une seule source », « sources divergentes »).
 Rien d’inventé : ce qui n’a pas pu être vérifié n’est pas publié, ou est clairement signalé comme tel.
 Les sources sont listées en bas de chaque page, et la date de mise à jour figure en haut.
 Indépendance
-Ce site n’est affilié à aucune mairie, aucune administration ni aucune marque. Je ne suis pas artisan. Les informations sont générales : la mairie (pour l’urbanisme) et les professionnels qui établissent vos devis restent les références pour votre projet.
+Ce site n’est affilié à aucune mairie, aucune administration ni aucune marque. Ce site n’est pas artisan. Les informations sont générales : la mairie (pour l’urbanisme) et les professionnels qui établissent vos devis restent les références pour votre projet.
 Qui édite ce site
-Le site est édité par Aymen Benchohra, entrepreneur individuel (voir les mentions légales ) et réalisé par Gagner du Temps , qui crée des sites et des outils pour les artisans.
+Le site est édité par une entreprise individuelle (voir les mentions légales ) et réalisé par Gagner du Temps , qui crée des sites et des outils pour les artisans.
 Du même auteur : Repères Assainissement (assainissement individuel en Loire-Atlantique et en Vendée), Gagner du Temps (visibilité sur Google et suivi des devis pour les artisans) et FidéliQR (carte de fidélité par QR code pour les commerçants).
 Une erreur ?
 Signalez-la à {{EMAIL}} : je corrige en citant la source.
@@ -724,7 +724,7 @@ URL : https://exterieur-clair.fr/taxe-amenagement
 
 Accueil › Taxe d’aménagement Taxe d’aménagement 2026 : le taux de chaque commune du 44 et du 85
 Le taux voté par votre commune, les exonérations d’abris de jardin et un calculateur pour estimer la taxe d’une piscine, d’un abri ou d’une véranda.
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Extérieur Clair Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Valeurs 2026 : 251 € par m² de bassin pour une piscine, 892 € par m² pour une construction (446 € sur les 100 premiers m² d’une résidence principale).
 Part départementale : 2,5 % en Loire-Atlantique comme en Vendée (la Vendée est passée de 1,5 % à 2,5 % au 1 er janvier 2026).
@@ -1247,7 +1247,7 @@ Prix au m², formalités, taxe d’aménagement, taxe foncière et garanties.
 Piscinistes labellisés en Loire-Atlantique et en Vendée
 Les professionnels titulaires du label Propiscines, d’après l’annuaire officiel de la FPP.
 AB
-Aymen B. — J’écris ce guide à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Je ne suis pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. Ma méthode .
+Extérieur Clair — Ce guide est rédigé à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Ce site n’est pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. La méthode .
 Sources consultées
 Taxe d'aménagement - Éléments de taxation votés par les collectivités à partir de 2022 (DGFiP, application DELTA)
 Service-public — Taxe d’aménagement (F23263)
@@ -1259,7 +1259,7 @@ URL : https://exterieur-clair.fr/piscinistes-labellises
 
 Accueil › Piscinistes labellisés Piscinistes labellisés en Loire-Atlantique et en Vendée
 Les professionnels de la piscine titulaires d’un label de la Fédération des Professionnels de la Piscine, et comment les vérifier.
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 3 min
+Par Extérieur Clair Mis à jour le 21/10/2026 Lecture : 3 min
 En bref
 13 piscinistes labellisés en Loire-Atlantique et 23 en Vendée, d’après l’annuaire officiel de la FPP.
 Trois niveaux de label Propiscines : engagé, qualifié, certifié ; Proabris pour les abris de piscine.
@@ -1394,7 +1394,7 @@ Les entreprises du paysage qualifiées QualiPaysage ou adhérentes de l’Unep.
 Taxe d’aménagement : le taux de votre commune
 Les taux 2026 des 460 communes du 44 et du 85 et un calculateur.
 AB
-Aymen B. — J’écris ce guide à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Je ne suis pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. Ma méthode .
+Extérieur Clair — Ce guide est rédigé à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Ce site n’est pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. La méthode .
 Sources consultées
 Propiscines® (engagé / qualifié / certifié) — les professionnels labellisés
 Proabris® — le label des abris
@@ -1405,7 +1405,7 @@ URL : https://exterieur-clair.fr/paysagistes-qualifies
 
 Accueil › Paysagistes qualifiés Paysagistes qualifiés en Loire-Atlantique et en Vendée
 Les entreprises du paysage qualifiées QualiPaysage ou adhérentes de l’Unep, pour une terrasse, une clôture, un aménagement autour de la piscine ou un jardin.
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 3 min
+Par Extérieur Clair Mis à jour le 21/10/2026 Lecture : 3 min
 En bref
 14 paysagistes qualifiés QualiPaysage en Loire-Atlantique, 4 en Vendée.
 247 entreprises adhérentes de l’Unep dans les deux départements.
@@ -1716,7 +1716,7 @@ Les piscinistes titulaires d’un label de la FPP dans le 44 et le 85.
 Taxe d’aménagement : le taux de votre commune
 Les taux 2026 des 460 communes du 44 et du 85 et un calculateur.
 AB
-Aymen B. — J’écris ce guide à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Je ne suis pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. Ma méthode .
+Extérieur Clair — Ce guide est rédigé à partir des fiches officielles (service-public, impôts, BOFiP, préfectures) et des prix publiés, en croisant plusieurs sources pour chaque fourchette. Ce site n’est pas artisan. Pour votre projet, la mairie (urbanisme) et les professionnels qui établissent vos devis restent les références. La méthode .
 Sources consultées
 QualiPaysage — qualification des entreprises du paysage
 Adhérent Unep – Les Entreprises du Paysage — Les Entreprises du Paysage
